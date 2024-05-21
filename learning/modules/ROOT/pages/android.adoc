@@ -1,0 +1,6 @@
+= Android
+
+== Trabajando con un dashboard
+
+video::vJapzH_46a8/PL8ie04dqq7_OcBYDpvHrcSFVoggLi3cm_[youtube, width="854",height="480"]
+
