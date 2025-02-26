@@ -1,3 +1,44 @@
 = Política Anti-Spam
 :navtitle: Anti-Spam
-TODO
+== Introducción
+En Coderic estamos comprometidos con la protección de la privacidad y la experiencia del usuario. Nuestra política antispam establece las directrices para prevenir el envío no autorizado de correos electrónicos, mensajes y otras formas de comunicación no solicitadas.
+
+== Definición de Spam
+Spam se refiere a cualquier mensaje electrónico no solicitado enviado en masa, incluyendo correos electrónicos, mensajes en redes sociales, SMS y otras formas de comunicación digital que no han sido solicitadas por el destinatario.
+
+== Prácticas Prohibidas
+Coderic prohíbe estrictamente:
+
+El envío de correos electrónicos masivos no solicitados.
+
+La compra, venta o uso de listas de correo sin consentimiento explícito de los destinatarios.
+
+El uso de técnicas de encubrimiento para ocultar la identidad del remitente o el origen del mensaje.
+
+El envío de mensajes repetitivos o engañosos con fines comerciales, fraudulentos o maliciosos.
+
+== Consentimiento y Suscripción
+
+Todos los mensajes enviados por Coderic deben contar con el consentimiento explícito del destinatario.
+
+Los usuarios pueden suscribirse voluntariamente a nuestras comunicaciones mediante formularios de registro en nuestros sitios web y servicios.
+
+Se proporcionará siempre la opción de darse de baja de cualquier comunicación en cada mensaje enviado.
+
+== Consecuencias del Incumplimiento
+El incumplimiento de esta política podrá resultar en:
+
+La suspensión o cancelación de la cuenta de usuario infractora.
+
+Acciones legales según las regulaciones vigentes en la jurisdicción aplicable.
+
+Informes a las autoridades competentes y organismos de protección de datos.
+
+== Reporte de Spam
+Si recibes un mensaje sospechoso que parece provenir de Coderic sin tu consentimiento, por favor repórtalo de inmediato a nuestro equipo de soporte a través de coderic@coderic.org. Investigaremos cada caso y tomaremos las medidas necesarias.
+
+== Modificaciones a la Política
+Coderic se reserva el derecho de actualizar esta política en cualquier momento para adaptarse a cambios en las regulaciones o en nuestras prácticas de comunicación. Se notificará a los usuarios sobre cualquier modificación relevante.
+
+== Contacto
+Para consultas sobre esta política, puedes comunicarte con nuestro equipo de soporte en coderic@coderic.org
