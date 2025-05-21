@@ -3,9 +3,9 @@ site:
   start_page: ROOT::index.adoc
 content:
   sources: 
-#  - url: .
-#    branches: HEAD
-#    start_path: ROOT
+  - url: .
+    branches: HEAD
+    start_path: ROOT
   - url: .
     branches: HEAD
     start_path: development
@@ -27,13 +27,14 @@ content:
   - url: https://github.com/Coderic/Sandbox.git
     branches: gh-pages
     start_path: docs/ROOT
+    component_name: sandbox-docs
 ui: 
   bundle:
     url: https://coderic.github.io/theme-docs/ui-bundle.zip
     snapshot: true
 asciidoc:
   attributes:
-    page-component-sort-order: ROOT,development,crowdfunding,coworking,freelancers,learning,community
+    page-component-sort-order: ROOT,development,crowdfunding,coworking,freelancers,learning,community,sandbox-docs
 antora:
   extensions:
   - '@antora/lunr-extension'
