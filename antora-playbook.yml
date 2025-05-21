@@ -25,6 +25,9 @@ content:
   - url: .
     branches: HEAD
     start_path: community
+  - url: https://github.com/Coderic/Sandbox/
+    branches: gh-pages
+    start_path: docs/ROOT
 ui: 
   bundle:
     url: https://coderic.github.io/theme-docs/ui-bundle.zip
