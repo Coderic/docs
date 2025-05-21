@@ -6,7 +6,6 @@ content:
   - url: .
     branches: HEAD
     start_path: ROOT
-
   - url: .
     branches: HEAD
     start_path: development
@@ -25,7 +24,7 @@ content:
   - url: .
     branches: HEAD
     start_path: community
-  - url: https://github.com/Coderic/Sandbox/
+  - url: https://github.com/Coderic/Sandbox.git
     branches: gh-pages
     start_path: docs/ROOT
 ui: 
