@@ -1,6 +1,6 @@
 = Infraestructura
 
-Coderic mantiene una infraestructura tecnológica robusta y escalable que soporta nuestros servicios, aplicaciones y ecosistemas tecnológicos. Esta p?gina describe nuestra arquitectura, servicios y pol?ticas de infraestructura.
+Coderic mantiene una infraestructura tecnológica robusta y escalable que soporta nuestros servicios, aplicaciones y ecosistemas tecnológicos. Esta página describe nuestra arquitectura, servicios y políticas de infraestructura.
 
 == Arquitectura general
 
@@ -94,7 +94,7 @@ Nuestra infraestructura est? dise?ada siguiendo principios de:
 === SLA y objetivos
 
 * *Disponibilidad objetivo*: 99.9% uptime
-* *Tiempo de respuesta*: < 200ms para p?ginas principales
+* *Tiempo de respuesta*: < 200ms para páginas principales
 * *Escalado*: Auto-escalado seg?n m?tricas de uso
 
 === Monitoreo
@@ -119,7 +119,7 @@ Nuestra infraestructura est? dise?ada siguiendo principios de:
 * *Infraestructura como código*: Terraform, Ansible
 * *Containerizaci?n*: Docker para consistencia de entornos
 
-== Pol?ticas y procedimientos
+== políticas y procedimientos
 
 === gestión de cambios
 
