@@ -1,6 +1,6 @@
 = Infraestructura
 
-Coderic mantiene una infraestructura tecnol?gica robusta y escalable que soporta nuestros servicios, aplicaciones y ecosistemas tecnol?gicos. Esta p?gina describe nuestra arquitectura, servicios y pol?ticas de infraestructura.
+Coderic mantiene una infraestructura tecnológica robusta y escalable que soporta nuestros servicios, aplicaciones y ecosistemas tecnológicos. Esta p?gina describe nuestra arquitectura, servicios y pol?ticas de infraestructura.
 
 == Arquitectura general
 
@@ -8,7 +8,7 @@ Nuestra infraestructura est? dise?ada siguiendo principios de:
 
 * *Alta disponibilidad*: Sistemas redundantes y distribuidos
 * *Escalabilidad*: Capacidad de crecer seg?n la demanda
-* *Seguridad*: M?ltiples capas de protecci?n y monitoreo
+* *Seguridad*: M?ltiples capas de protección y monitoreo
 * *Sostenibilidad*: Uso eficiente de recursos
 
 == Servicios y portales
@@ -22,20 +22,20 @@ Nuestra infraestructura est? dise?ada siguiendo principios de:
 === Portal empresarial (coderic.co)
 
 * *Prop?sito*: Servicios empresariales y soluciones B2B
-* *Caracter?sticas*: Plataforma para gesti?n de proyectos empresariales
+* *características*: Plataforma para gestión de proyectos empresariales
 * *Infraestructura*: Servicios escalables con alta disponibilidad
 
 === Portal profesional (coderic.net)
 
 * *Prop?sito*: Servicios profesionales y desarrollo personalizado
-* *Funcionalidades*: Gesti?n de proyectos y clientes profesionales
+* *Funcionalidades*: gestión de proyectos y clientes profesionales
 * *Tecnolog?a*: APIs y servicios backend robustos
 
 === Portal en la nube (coderic.cloud)
 
 * *Prop?sito*: Servicios de infraestructura en la nube
 * *Oferta*: Hosting, almacenamiento, bases de datos y servicios cloud
-* *Capacidades*: Auto-escalado y gesti?n automatizada
+* *Capacidades*: Auto-escalado y gestión automatizada
 
 == Tecnolog?as y stack
 
@@ -52,7 +52,7 @@ Nuestra infraestructura est? dise?ada siguiendo principios de:
 * *Build tools*: Webpack, Vite
 * *Estilos*: CSS3, Sass, Tailwind CSS
 
-=== Infraestructura como c?digo
+=== Infraestructura como código
 
 * *Orquestaci?n*: Kubernetes, Docker Swarm
 * *Contenedores*: Docker
@@ -68,19 +68,19 @@ Nuestra infraestructura est? dise?ada siguiendo principios de:
 
 == Seguridad
 
-=== Protecci?n de datos
+=== protección de datos
 
 * *Encriptaci?n*: TLS/SSL para tr?fico en tr?nsito
 * *Almacenamiento*: Encriptaci?n de datos en reposo
 * *Backups*: Copias de seguridad regulares y verificadas
 * *Compliance*: Cumplimiento con normativas de privacidad
 
-=== Accesos y autenticaci?n
+=== Accesos y autenticación
 
-* *Autenticaci?n*: OAuth 2.0, JWT
-* *Autorizaci?n*: Control de acceso basado en roles (RBAC)
+* *autenticación*: OAuth 2.0, JWT
+* *autorización*: Control de acceso basado en roles (RBAC)
 * *SSO*: Single Sign-On para servicios internos
-* *MFA*: Autenticaci?n de m?ltiples factores
+* *MFA*: autenticación de m?ltiples factores
 
 === Monitoreo y respuesta
 
@@ -113,15 +113,15 @@ Nuestra infraestructura est? dise?ada siguiendo principios de:
 * *Environments*: Desarrollo, staging, producci?n
 * *Rollback*: Capacidad de revertir cambios r?pidamente
 
-=== Gesti?n de configuraci?n
+=== gestión de configuración
 
-* *Versionado*: Control de versiones para toda la configuraci?n
-* *Infraestructura como c?digo*: Terraform, Ansible
+* *Versionado*: Control de versiones para toda la configuración
+* *Infraestructura como código*: Terraform, Ansible
 * *Containerizaci?n*: Docker para consistencia de entornos
 
 == Pol?ticas y procedimientos
 
-=== Gesti?n de cambios
+=== gestión de cambios
 
 * *Proceso de cambio*: Documentado y controlado
 * *Testing*: Pruebas obligatorias antes de producci?n
@@ -131,7 +131,7 @@ Nuestra infraestructura est? dise?ada siguiendo principios de:
 === Respuesta a incidentes
 
 * *Procedimientos*: Protocolos documentados para diferentes tipos de incidentes
-* *Comunicaci?n*: Canales de comunicaci?n durante incidentes
+* *comunicación*: Canales de comunicación durante incidentes
 * *Post-mortem*: An?lisis despu?s de incidentes importantes
 * *Mejora continua*: Aprendizaje y mejoras basadas en incidentes
 
@@ -147,12 +147,12 @@ Nuestra infraestructura est? dise?ada siguiendo principios de:
 Para preguntas sobre infraestructura:
 
 * *Email*: infrastructure@coderic.org
-* *Documentaci?n t?cnica*: https://coderic.org/docs/[Documentaci?n]
+* *Documentaci?n técnica*: https://coderic.org/docs/[Documentaci?n]
 * *Issues*: https://github.com/CodericLatam/docs/issues[GitHub Issues]
 
 == Recursos adicionales
 
 * *Estado de servicios*: Dashboard de estado en tiempo real
-* *Documentaci?n t?cnica*: Gu?as detalladas para desarrolladores
+* *Documentaci?n técnica*: Guías detalladas para desarrolladores
 * *APIs*: Documentaci?n de APIs disponibles
 * *Roadmap*: Planes futuros de infraestructura

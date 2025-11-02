@@ -2,14 +2,14 @@
 
 Coderic agradece a todas las organizaciones, empresas e individuos que nos apoyan y hacen posible nuestro trabajo. El apoyo de nuestros patrocinadores nos permite continuar desarrollando software libre, organizar eventos comunitarios y proporcionar recursos educativos.
 
-== ?Por qu? ser patrocinador?
+== ?Por qué ser patrocinador?
 
-Al patrocinar a Coderic, su organizaci?n:
+Al patrocinar a Coderic, su organización:
 
 * *Apoya el software libre*: Contribuye al desarrollo de tecnolog?as abiertas y accesibles
 * *Gana visibilidad*: Su logo y enlace en nuestros materiales y eventos
 * *Conecta con talento*: Acceso a una comunidad de desarrolladores talentosos
-* *Responsabilidad social*: Demuestra compromiso con la educaci?n tecnol?gica y la comunidad
+* *Responsabilidad social*: Demuestra compromiso con la educación tecnológica y la comunidad
 * *Networking*: Oportunidades de networking en eventos y comunidades
 
 == Tipos de patrocinio
@@ -81,23 +81,23 @@ Para patrocinadores individuales:
 * Acceso a beneficios comunitarios
 * Agradecimiento p?blico
 
-== C?mo convertirse en patrocinador
+== cómo convertirse en patrocinador
 
 === Proceso
 
 1. *Contacto inicial*: Env?e un email a sponsors@coderic.org
-2. *Revisi?n*: Revisamos su propuesta y valores alineados
+2. *Revisión*: Revisamos su propuesta y valores alineados
 3. *Acuerdo*: Definimos t?rminos y nivel de patrocinio
 4. *Implementaci?n*: Integramos su patrocinio en nuestros materiales
-5. *Seguimiento*: Mantenemos comunicaci?n sobre oportunidades y resultados
+5. *Seguimiento*: Mantenemos comunicación sobre oportunidades y resultados
 
 === Requisitos
 
 Los patrocinadores deben:
 
-* Alinearse con nuestros valores y c?digo de conducta
+* Alinearse con nuestros valores y código de conducta
 * Respetar principios de software libre (donde aplique)
-* Mantener est?ndares ?ticos y profesionales
+* Mantener estándares ?ticos y profesionales
 * Apoyar la misi?n educativa de Coderic
 
 == Beneficios para patrocinadores
@@ -146,13 +146,13 @@ Agradecemos especialmente a nuestros patrocinadores actuales (la lista se actual
 
 Coderic se compromete a la transparencia en el uso de fondos de patrocinio:
 
-* *Reportes p?blicos*: Informaci?n sobre uso de fondos (cuando aplica)
-* *Comunicaci?n clara*: Informaci?n sobre c?mo se utilizan las contribuciones
+* *Reportes p?blicos*: Información sobre uso de fondos (cuando aplica)
+* *comunicación clara*: Información sobre cómo se utilizan las contribuciones
 * *Impacto medible*: Reportes sobre el impacto de los proyectos financiados
 
 == Contacto
 
-Para m?s informaci?n sobre patrocinio:
+Para m?s información sobre patrocinio:
 
 * *Email*: sponsors@coderic.org
 * *Tema general*: latam@coderic.org
@@ -160,11 +160,11 @@ Para m?s informaci?n sobre patrocinio:
 
 == Agradecimientos
 
-Agradecemos profundamente a todos aquellos que, de una u otra forma, apoyan a Coderic. Su contribuci?n hace posible que continuemos:
+Agradecemos profundamente a todos aquellos que, de una u otra forma, apoyan a Coderic. Su contribución hace posible que continuemos:
 
 * Desarrollando software libre y abierto
 * Educando y capacitando profesionales
-* Construyendo una comunidad tecnol?gica inclusiva
+* Construyendo una comunidad tecnológica inclusiva
 * Innovando en el campo del desarrollo de software
 
-?Gracias por hacer posible nuestro trabajo!
+¡Gracias por hacer posible nuestro trabajo!
