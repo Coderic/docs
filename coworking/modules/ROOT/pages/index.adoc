@@ -1,4 +1,210 @@
-= Descripción General
+= Coworking
 
-TODO
-Hola mundo
+Este módulo describe los espacios de trabajo colaborativo de Coderic y cómo puedes utilizar estos recursos.
+
+== ¿Qué es Coworking en Coderic?
+
+Coworking en Coderic se refiere a espacios de trabajo compartidos donde profesionales tecnológicos, emprendedores y desarrolladores pueden trabajar de forma colaborativa, intercambiar ideas y crear sinergias.
+
+== Beneficios del coworking
+
+=== Espacio de trabajo profesional
+
+* Oficinas equipadas con la infraestructura necesaria
+* Conexión de internet de alta velocidad
+* Espacios de reunión y salas de conferencia
+* Ambientes diseñados para productividad
+
+=== Networking y colaboración
+
+* Conexión con otros profesionales
+* Oportunidades de colaboración
+* Intercambio de conocimientos y experiencias
+* Comunidad de profesionales tecnológicos
+
+=== Recursos compartidos
+
+* Herramientas y equipos de desarrollo
+* Bibliotecas de recursos técnicos
+* Espacios de impresión y servicios administrativos
+* Cafetería y áreas comunes
+
+== Tipos de espacios
+
+=== Espacios abiertos
+
+* Mesas compartidas para trabajo individual
+* Ambiente colaborativo
+* Ideal para freelancers y emprendedores
+* Flexibilidad horaria
+
+=== Oficinas privadas
+
+* Espacios dedicados para equipos
+* Mayor privacidad
+* Ideal para startups en crecimiento
+* Configuración personalizada
+
+=== Salas de reunión
+
+* Espacios para reuniones y presentaciones
+* Equipamiento audiovisual
+* Capacidad variable
+* Reserva previa
+
+=== Áreas especiales
+
+* Laboratorios de desarrollo
+* Espacios de innovación
+* Zonas de descanso y networking
+* Áreas de eventos
+
+== Servicios incluidos
+
+=== Infraestructura
+
+* WiFi de alta velocidad
+* Impresión y escaneo
+* Servicios de correo
+* Almacenamiento seguro
+
+=== Soporte técnico
+
+* Asistencia con equipos
+* Configuración de entornos de desarrollo
+* Soporte para infraestructura
+* Consultoría técnica básica
+
+=== Eventos y actividades
+
+* Organización de meetups y eventos
+* Talleres y capacitaciones
+* Charlas y presentaciones
+* Networking events
+
+== Membresías
+
+=== Día
+
+* Acceso por un día
+* Ideal para visitantes ocasionales
+* Sin compromiso a largo plazo
+
+=== Mensual
+
+* Acceso ilimitado durante el mes
+* Descuentos en servicios adicionales
+* Ideal para profesionales regulares
+
+=== Anual
+
+* Mejor relación costo-beneficio
+* Beneficios exclusivos
+* Prioridad en recursos
+* Descuentos en eventos
+
+=== Equipos
+
+* Planes personalizados para equipos
+* Espacios dedicados
+* Servicios adicionales
+* Facturación empresarial
+
+== Requisitos y proceso
+
+=== Requisitos
+
+* Ser parte de la comunidad tecnológica
+* Compromiso con valores de Coderic
+* Respeto al código de conducta
+* Uso responsable de los recursos
+
+=== Proceso de incorporación
+
+1. Solicitud de información
+2. Visita y recorrido
+3. Selección de plan
+4. Registro y pago
+5. Acceso inmediato
+
+== Reglas y políticas
+
+=== Uso de espacios
+
+* Respeto a otros miembros
+* Limpieza y organización
+* Uso responsable de recursos
+* Cumplimiento de horarios
+
+=== Eventos
+
+* Reserva previa de espacios
+* Políticas de cancelación
+* Límites de capacidad
+* Reglas de comportamiento
+
+== Ubicaciones
+
+Nuestros espacios de coworking están ubicados estratégicamente para facilitar el acceso y crear comunidades locales.
+
+=== Información de contacto
+
+* *Email*: coworking@coderic.org
+* *Teléfono*: Disponible en coderic.org
+* *Visitas*: Coordinar cita previa
+
+== Ventajas competitivas
+
+=== Para freelancers
+
+* Espacio profesional sin costos de oficina propia
+* Networking constante
+* Acceso a proyectos y oportunidades
+* Ambiente de trabajo motivador
+
+=== Para startups
+
+* Espacio escalable
+* Recursos compartidos reducen costos
+* Acceso a talento y colaboradores
+* Credibilidad empresarial
+
+=== Para empresas
+
+* Oficinas satélite
+* Espacios para proyectos temporales
+* Acceso a talento local
+* Flexibilidad operativa
+
+== Comunidad
+
+El coworking de Coderic es más que un espacio físico; es una comunidad:
+
+* Eventos regulares
+* Grupos de interés
+* Proyectos colaborativos
+* Apoyo mutuo entre miembros
+
+== Preguntas frecuentes
+
+=== ¿Puedo trabajar desde casa también?
+
+Sí, las membresías son flexibles. Puedes combinar trabajo remoto con uso del espacio físico.
+
+=== ¿Hay espacios disponibles 24/7?
+
+Depende de la ubicación y tipo de membresía. Consulta los horarios específicos.
+
+=== ¿Puedo llevar clientes al espacio?
+
+Sí, dentro de las políticas de visitas. Puedes usar salas de reunión para encuentros con clientes.
+
+== Contacto
+
+Para más información sobre coworking:
+
+* *Email*: coworking@coderic.org
+* *Formulario*: Disponible en coderic.org
+* *Visitas*: Coordina una visita sin compromiso
+
+¡Únete a nuestra comunidad de profesionales tecnológicos!

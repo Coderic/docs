@@ -11,8 +11,8 @@
 * Diseño
 ** Conceptual
 ** Prototipo visual
-** Interfáz UI
-** Interfáz UX
+** Interfaz UI
+** Interfaz UX
 * Planificación
 ** Cronología
 ** Presupuesto

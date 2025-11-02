@@ -34,7 +34,7 @@ ui:
     snapshot: true
 asciidoc:
   attributes:
-    page-component-sort-order: ROOT,development,crowdfunding,coworking,freelancers,learning,community,sandbox-docs
+    page-component-sort-order: ROOT,development,crowdfunding,coworking,freelancers,learning,community
 antora:
   extensions:
   - '@antora/lunr-extension'

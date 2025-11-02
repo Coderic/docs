@@ -1,3 +1,150 @@
-= Descripción General
+= Crowdfunding
 
-TODO
+Este módulo describe la plataforma de financiamiento colectivo de Coderic y cómo puedes participar o utilizar este servicio.
+
+== ¿Qué es Crowdfunding en Coderic?
+
+El crowdfunding en Coderic es una iniciativa que permite recaudar fondos de forma colaborativa para proyectos tecnológicos, startups y emprendimientos. Facilitamos la conexión entre emprendedores que necesitan financiamiento y personas interesadas en apoyar proyectos innovadores.
+
+== Tipos de proyectos
+
+=== Proyectos tecnológicos
+
+* Desarrollo de software y aplicaciones
+* Herramientas y plataformas digitales
+* Proyectos de código abierto
+* Investigación y desarrollo tecnológico
+
+=== Startups
+
+* Nuevas empresas tecnológicas
+* Proyectos de emprendimiento
+* Validación de ideas de negocio
+* Prototipos y MVPs
+
+=== Iniciativas comunitarias
+
+* Proyectos con impacto social
+* Educación tecnológica
+* Capacitación y formación
+* Proyectos de impacto comunitario
+
+== Cómo funciona
+
+=== Para creadores de proyectos
+
+1. *Registro*: Crea una cuenta y registra tu proyecto
+2. *Propuesta*: Presenta tu proyecto con objetivos claros
+3. *Revisión*: Evaluamos tu propuesta según criterios establecidos
+4. *Publicación*: Una vez aprobado, se publica en la plataforma
+5. *Campaña*: Recauda fondos durante el período establecido
+6. *Desarrollo*: Ejecuta tu proyecto con los fondos recaudados
+7. *Reporte*: Mantén a los patrocinadores informados del progreso
+
+=== Para patrocinadores
+
+1. *Exploración*: Explora proyectos disponibles
+2. *Selección*: Elige proyectos que te interesen
+3. *Aporte*: Realiza tu contribución económica
+4. *Seguimiento*: Recibe actualizaciones del proyecto
+5. *Recompensas*: Obtén recompensas según el nivel de aporte
+
+== Modelos de financiamiento
+
+=== Todo o nada (All-or-nothing)
+
+El proyecto debe alcanzar su meta financiera para recibir los fondos. Si no se alcanza, los aportes se devuelven.
+
+=== Flexible
+
+El proyecto recibe todos los fondos recaudados, independientemente de alcanzar la meta.
+
+=== Suscripción recurrente
+
+Soporte continuo a proyectos a través de contribuciones mensuales.
+
+== Estructura de recompensas
+
+Los creadores pueden ofrecer diferentes niveles de recompensas:
+
+* *Nivel básico*: Agradecimiento y mención
+* *Nivel medio*: Acceso anticipado, descuentos
+* *Nivel alto*: Productos exclusivos, participación en decisiones
+* *Nivel premium*: Experiencias únicas, reconocimiento especial
+
+== Criterios de evaluación
+
+Los proyectos son evaluados según:
+
+* *Viabilidad técnica*: ¿Es técnicamente posible?
+* *Claridad de objetivos*: ¿Tiene objetivos claros y medibles?
+* *Impacto potencial*: ¿Qué impacto tendrá?
+* *Plan de ejecución*: ¿Tiene un plan realista?
+* *Transparencia*: ¿Es transparente en sus comunicaciones?
+
+== Transparencia y reportes
+
+=== Para creadores
+
+* Actualizaciones regulares obligatorias
+* Reportes financieros transparentes
+* Comunicación abierta con patrocinadores
+* Rendición de cuentas del uso de fondos
+
+=== Para patrocinadores
+
+* Acceso a actualizaciones del proyecto
+* Reportes de progreso y gastos
+* Mecanismos de comunicación con creadores
+* Protección en caso de incumplimiento
+
+== Tarifas y comisiones
+
+* *Comisión de plataforma*: Porcentaje sobre fondos recaudados
+* *Procesamiento de pagos*: Tarifas de procesadores de pago
+* *Transparencia*: Todas las tarifas son claramente comunicadas
+
+== Seguridad y protección
+
+* *Verificación de proyectos*: Proceso de verificación antes de publicación
+* *Protección de datos*: Cumplimiento con normativas de privacidad
+* *Seguridad de pagos*: Procesamiento seguro de transacciones
+* *Resolución de disputas*: Mecanismos para resolver problemas
+
+== Casos de éxito
+
+Proyectos exitosos financiados a través de nuestra plataforma incluyen:
+
+* Aplicaciones móviles innovadoras
+* Plataformas de software open source
+* Herramientas de productividad
+* Proyectos educativos tecnológicos
+
+== Preguntas frecuentes
+
+=== ¿Cuánto tiempo dura una campaña?
+
+Típicamente entre 30 y 90 días, dependiendo del proyecto.
+
+=== ¿Qué pasa si un proyecto no alcanza su meta?
+
+Depende del modelo: en "todo o nada" se devuelven los fondos; en modelo flexible, el proyecto recibe lo recaudado.
+
+=== ¿Puedo cancelar mi aporte?
+
+Generalmente sí, dentro de un período determinado y según las políticas específicas del proyecto.
+
+== Contacto
+
+Para más información sobre crowdfunding:
+
+* *Email*: crowdfunding@coderic.org
+* *Formulario*: Disponible en coderic.org
+* *Documentación*: Guías detalladas para creadores y patrocinadores
+
+== Recursos
+
+* Guía para creadores de proyectos
+* Guía para patrocinadores
+* Templates de propuestas
+* Mejores prácticas de crowdfunding

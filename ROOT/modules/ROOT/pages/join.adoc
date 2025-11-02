@@ -1,7 +1,121 @@
 = Involúcrate
 
-TODO
+¡Bienvenido a Coderic! Estamos emocionados de que quieras formar parte de nuestra comunidad. Hay muchas formas de involucrarte y contribuir, ya sea como miembro activo, colaborador, o participando en nuestros proyectos.
+
+== ¿Por qué unirte a Coderic?
+
+Al unirte a Coderic, te conviertes en parte de una comunidad única que combina:
+
+* *Tecnología de vanguardia*: Trabajamos con las últimas tecnologías y metodologías de desarrollo
+* *Código abierto*: Contribuyes a proyectos de software libre y abierto
+* *Aprendizaje continuo*: Acceso a recursos educativos, talleres y capacitaciones
+* *Red profesional*: Conecta con profesionales apasionados por la tecnología
+* *Impacto real*: Desarrolla soluciones que tienen un impacto positivo en empresas y comunidades
+
+== Formas de participar
+
+=== Como miembro activo
+
+Los miembros activos participan regularmente en proyectos, reuniones y toma de decisiones de la organización. Para convertirte en miembro activo:
+
+. Expresa tu interés a través de nuestro proceso de membresía
+. Participa en proyectos y actividades de la comunidad
+. Demuestra compromiso con los valores y principios de Coderic
+
+=== Como colaborador
+
+Puedes contribuir sin ser miembro activo participando en:
+
+* *Desarrollo de código*: Contribuye a proyectos open source
+* *Documentación*: Ayuda a mejorar y crear documentación
+* *Diseño*: Colabora en el diseño de interfaces y experiencias de usuario
+* *Traducción*: Ayuda a hacer nuestros recursos accesibles en múltiples idiomas
+* *Eventos*: Organiza o participa en meetups, conferencias y talleres
+* *Mentoría*: Comparte tu conocimiento ayudando a otros miembros
+
+=== Como usuario
+
+Si eres usuario de nuestros servicios o herramientas:
+
+* Únete a nuestras comunidades en línea
+* Reporta bugs y sugiere mejoras
+* Comparte tus experiencias y casos de uso
+* Revisa y mejora la documentación
 
 == ¿Qué beneficios obtendrás?
 
-TODO
+Al formar parte de Coderic obtendrás:
+
+=== Desarrollo profesional
+
+* *Experiencia práctica*: Trabaja en proyectos reales y desafiantes
+* *Portfolio fortalecido*: Construye un portafolio con proyectos de código abierto
+* *Referencias profesionales*: Obtén referencias de otros miembros reconocidos
+* *Certificaciones*: Participa en programas de certificación internos
+
+=== Aprendizaje y crecimiento
+
+* *Acceso a recursos educativos*: Cursos, tutoriales y materiales exclusivos
+* *Talleres y capacitaciones*: Sesiones de formación sobre tecnologías actuales
+* *Mentoría personalizada*: Recibe guía de miembros experimentados
+* *Ambiente de aprendizaje colaborativo*: Aprende de otros y comparte conocimiento
+
+=== Red y comunidad
+
+* *Conexiones profesionales*: Conecta con profesionales de la industria
+* *Oportunidades de colaboración*: Colabora en proyectos con otros miembros
+* *Eventos exclusivos*: Acceso a eventos, conferencias y meetups
+* *Comunidad internacional*: Forma parte de una red global de profesionales
+
+=== Beneficios prácticos
+
+* *Acceso a infraestructura*: Utiliza nuestros recursos de desarrollo y testing
+* *Descuentos en servicios*: Acceso a descuentos en servicios de terceros
+* *Herramientas de desarrollo*: Acceso a herramientas y licencias profesionales
+* *Espacios de coworking*: Utiliza espacios de trabajo colaborativo (cuando estén disponibles)
+
+== Proceso de incorporación
+
+=== Paso 1: Conoce Coderic
+
+Antes de unirte, tómate el tiempo para:
+
+* Leer nuestra documentación y código de conducta
+* Explorar nuestros proyectos y comunidades
+* Asistir a eventos o reuniones públicas
+* Entender nuestros valores y principios
+
+=== Paso 2: Expresa tu interés
+
+Puedes expresar tu interés de varias formas:
+
+* Únete a nuestras discusiones en GitHub
+* Participa en nuestro chat comunitario
+* Envía un email a latam@coderic.org
+* Asiste a una reunión de bienvenida
+
+=== Paso 3: Primera contribución
+
+Realiza tu primera contribución:
+
+* Contribuye a la documentación
+* Reporta un bug o mejora
+* Participa en un proyecto existente
+* Propón un nuevo proyecto o iniciativa
+
+=== Paso 4: Integración
+
+Una vez que hayas realizado contribuciones significativas:
+
+* Los miembros existentes te propondrán para membresía
+* Participarás en el proceso de votación
+* Te darás la bienvenida formal a la organización
+
+== Recursos para empezar
+
+* *Documentación*: https://coderic.org/docs/[https://coderic.org/docs/]
+* *GitHub*: https://github.com/CodericLatam[https://github.com/CodericLatam]
+* *Contacto*: latam@coderic.org
+* *Guía de contribución*: xref:CONTRIBUTING.adoc[Ver guía de contribución]
+
+¡Esperamos que te unas a nosotros y juntos construyamos el futuro de la tecnología!
