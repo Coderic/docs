@@ -2,29 +2,29 @@
 :figure-caption!:
 
 == Antecedentes
-Coderic fué concebido el 6 de febrero de 2002 por Eduardo Bravo, José Cárdenas y Neftalí Yagua inicialmente se llamaría Impreelectrón la cuál se dedicaría a hacer circuitos electrónicos armables, como juegos para aficionados a la electrónica, en un principio, en su mayoría no conociamos personas que tuvieran la capacitación mínima para hacer uso de tales circuitos así que proyectamos a crear algo que pudiera ofrecer capacitación en áreas de electrónica, electricidad y robótica.
+Coderic fue concebido el 6 de febrero de 2002 por Eduardo Bravo, José Cárdenas y Neftalí Yagua inicialmente se llamaría Impreelectrón la cuál se dedicaría a hacer circuitos electrónicos armables, como juegos para aficionados a la electrónica, en un principio, en su mayoría no conociamos personas que tuvieran la capacitación mínima para hacer uso de tales circuitos así que proyectamos a crear algo que pudiera ofrecer capacitación en áreas de electrónica, electricidad y robótica.
 
 video::-KIGsc-qLMM[youtube, width="854",height="480"]
 
 == Fundación
 
-En Marzo de 2003 Neftalí Yagua planificó lo que sería el nuevo nombre de la organización inspirado en el nombre de un proyecto de inteligencia conversacional llamado Decabyte, el proyecto era una aplicación que usaba el Servicio de mensajería de Microsoft y recursos del buscador de Google, el sistema ubicaba resultados basados en la palabra inicial que serviría de comando para la busqueda de contenidos en internet. Ideando un nombre corto y fácil de recordar se proyectó hacer un segundo robot llamado Erick que sería de código abierto, sí que se realizó un nombre compuesto basado en CODE de código en inglés y Erick siendo inicialmente Coderick la K se eliminó por ser poco práctico al escribir el nombre y dificil de recordar simplificando como Coderic más tarde al consolidarse la idea de la organización se buscó un significado más corporativo con la intención de justificar sus siglas llamándose Compañia Orientada al Desarrollo Estratégido de Recursos Informáticos Comerciales y También Compañia Orientada al Desarrollo Estratégico de Recursos de Información y Capacitación, quedando el primero por votación unánime. 
+En marzo de 2003 Neftalí Yagua planificó lo que sería el nuevo nombre de la organización inspirado en el nombre de un proyecto de inteligencia conversacional llamado Decabyte, el proyecto era una aplicación que usaba el Servicio de mensajería de Microsoft y recursos del buscador de Google, el sistema ubicaba resultados basados en la palabra inicial que serviría de comando para la búsqueda de contenidos en internet. Ideando un nombre corto y fácil de recordar se proyectó hacer un segundo robot llamado Erick que sería de código abierto, sí que se realizó un nombre compuesto basado en CODE de código en inglés y Erick siendo inicialmente Coderick la K se eliminó por ser poco práctico al escribir el nombre y difícil de recordar simplificando como Coderic más tarde al consolidarse la idea de la organización se buscó un significado más corporativo con la intención de justificar sus siglas llamándose Compañía Orientada al Desarrollo Estratégico de Recursos Informáticos Comerciales y También Compañía Orientada al Desarrollo Estratégico de Recursos de Información y Capacitación, quedando el primero por votación unánime. 
 En la actualidad se conoce como *Corporación Orientada al Desarrollo Estratégico de Recursos de Información Comercial*
 
 .Prototipo de Modelado 3D en el que inspiró al proyecto Decabyte
 image::decabyte.jpg["Prototipo de Modelado 3D en el que inspiró al proyecto Decabyte"]
 
-== Trayectoría
+== Trayectoria
 
-Coderic ha sido planificado para que sea un centro de capacitación, ese es el objetivo sobre el cuál fue concebido, sin embargo, por causa de la falta de capital para el proyecto inicial, se tomó la iniciativa de dar cursos gratuitos en sitios clandestinos, resultó un éxito tomando en cuenta que muchos de los que iniciaron en Coderic hoy día viven de lo que aprendieron en la organización, Coderic disponía de la radio y el chat que servia para atraer usuarios que tuvieran interés en aprender, lo cuál exitosamente cumplió sus objetivos, he incluso tuvo un foro de opinión, el cuál no fué tan bueno como los anteriores, los usuarios de Coderic no entendían el concepto de Foro, más tarde Coderic creció como organización, hasta el punto de que empresas como Lorini, Servicios Hosting, *CyberVentas* e *iCADServers* tuvieron la iniciativa de apoyar y patrocinar los servidores para la radio, el chat y las páginas web de Coderic y sus miembros, su patrocinio exigía una responsabilidad, la responsabilidad de promoverles a través de los medios de Coderic (la radio y el chat) lamentablemente el publico no era un publico orientado al consumo de tales servicios así que no se llenaron las espectativas de tales compañías.
+Coderic ha sido planificado para que sea un centro de capacitación, ese es el objetivo sobre el cuál fue concebido, sin embargo, por causa de la falta de capital para el proyecto inicial, se tomó la iniciativa de dar cursos gratuitos en sitios clandestinos, resultó un éxito tomando en cuenta que muchos de los que iniciaron en Coderic hoy día viven de lo que aprendieron en la organización, Coderic disponía de la radio y el chat que servía para atraer usuarios que tuvieran interés en aprender, lo cual exitosamente cumplió sus objetivos, e incluso tuvo un foro de opinión, el cual no fue tan bueno como los anteriores, los usuarios de Coderic no entendían el concepto de Foro, más tarde Coderic creció como organización, hasta el punto de que empresas como Lorini, Servicios Hosting, *CyberVentas* e *iCADServers* tuvieron la iniciativa de apoyar y patrocinar los servidores para la radio, el chat y las páginas web de Coderic y sus miembros, su patrocinio exigía una responsabilidad, la responsabilidad de promoverles a través de los medios de Coderic (la radio y el chat) lamentablemente el público no era un público orientado al consumo de tales servicios así que no se llenaron las expectativas de tales compañías.
 
-Al intentar hacer cambios en Coderic para dejar de ser un grupo aficionado para convertirlo en organización, muchos miembros se opusieron negándose a la iniciativa de incluir publicidades en los medios de Coderic y también se negaron a cumplir horarios, así como moderar el contenido de los mismos, lo cuál trajo como consecuencia la suspensión de los servicios por parte de los patrocinadores.
+Al intentar hacer cambios en Coderic para dejar de ser un grupo aficionado para convertirlo en organización, muchos miembros se opusieron negándose a la iniciativa de incluir publicidades en los medios de Coderic y también se negaron a cumplir horarios, así como moderar el contenido de los mismos, lo cual trajo como consecuencia la suspensión de los servicios por parte de los patrocinadores.
 
-El 30 de Septiembre de 2004 Coderic se constituyó formalmente como organización y comenzó a utilizar el nombre de forma oficial, en las redes y en los medios, vendiendo servicios de alojamiento web y desarrollo de sistemas, aún no constituido como compañia, luego de 6 meses acumulando fondos para el centro de capacitación y la fundación el 14 y 15 de Marzo de 2005 se lanzaron los portales.
+El 30 de septiembre de 2004 Coderic se constituyó formalmente como organización y comenzó a utilizar el nombre de forma oficial, en las redes y en los medios, vendiendo servicios de alojamiento web y desarrollo de sistemas, aún no constituido como compañía, luego de 6 meses acumulando fondos para el centro de capacitación y la fundación el 14 y 15 de marzo de 2005 se lanzaron los portales.
 
 == Clausura Temporal
 
-La documentación de Coderic se extravió el 3 de febrero de 2007 en un maletín durante un viaje. La pérdida de toda la información de los miembros de la organización, y la bitácora de aportes de los miembros, así como llaves de los servidores y mucha información sustancialmente valiosa, entre ellos, concluyó en el cese de actividades, acto seguido el 17 de Octubre de 2007 los servidores de Coderic sufrieron multiples ataques de seguridad.
+La documentación de Coderic se extravió el 3 de febrero de 2007 en un maletín durante un viaje. La pérdida de toda la información de los miembros de la organización, y la bitácora de aportes de los miembros, así como llaves de los servidores y mucha información sustancialmente valiosa, entre ellos, concluyó en el cese de actividades, acto seguido el 17 de octubre de 2007 los servidores de Coderic sufrieron múltiples ataques de seguridad.
 
 En respuesta a esto Daniel Acevedo diseño lo que se convertiría en la imagen de clausura de Coderic, un diseño que enunciaba los valores que representaban a la organización de la siguiente manera: «Los Valores son la estructura del éxito. Humanismo, Responsabilidad, Vocación, Compromiso, Integración y Fé».
 
@@ -46,4 +46,13 @@ https://locutoresyemisorasve.blogspot.com/p/emisoras.html[Locutores y Emisoras d
 
 == En la actualidad
 
-TODO
+Tras la reactivación en 2015, Coderic ha continuado evolucionando como organización tecnológica. Actualmente, la corporación se ha consolidado como una casa de software con un ecosistema tecnológico completo que incluye múltiples portales y servicios:
+
+* https://coderic.org/[Coderic.org] - Portal principal de la organización
+* https://coderic.co/[Coderic.co] - Portal de servicios empresariales
+* https://coderic.net/[Coderic.net] - Portal de servicios profesionales
+* https://coderic.cloud/[Coderic.cloud] - Portal de servicios en la nube
+
+La organización mantiene su compromiso con el software libre, la innovación tecnológica y el desarrollo de soluciones personalizadas para empresas y emprendedores. Coderic continúa siendo una comunidad de profesionales apasionados por la tecnología, enfocados en proporcionar herramientas e integración tecnológica al alcance de todos.
+
+Nuestro ecosistema tecnológico refleja nuestra visión de ser una organización socialmente sensible, orientada al servicio, y comprometida con la excelencia en el desarrollo de software y la transformación digital.

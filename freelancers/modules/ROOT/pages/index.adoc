@@ -1,3 +1,233 @@
-= Descripción General
+= Freelancers
 
-TODO
+Este módulo está dirigido a profesionales independientes (freelancers) que trabajan con tecnologías y quieren formar parte del ecosistema Coderic.
+
+== ¿Qué es Freelancers en Coderic?
+
+Freelancers es nuestra plataforma y comunidad para profesionales independientes en el campo de la tecnología. Conectamos freelancers talentosos con proyectos y oportunidades de trabajo, proporcionando recursos, apoyo y una red profesional.
+
+== Ventajas de unirte como freelancer
+
+=== Acceso a proyectos
+
+* *Proyectos de calidad*: Acceso a proyectos de empresas y startups
+* *Diversidad*: Diferentes tipos de proyectos y tecnologías
+* *Oportunidades regulares*: Flujo constante de oportunidades
+* *Proyectos verificados*: Clientes y proyectos verificados
+
+=== Soporte y recursos
+
+* *Herramientas*: Acceso a herramientas de desarrollo y productividad
+* *Recursos educativos*: Cursos y materiales de capacitación
+* *Mentoría*: Acceso a mentores y consejeros
+* *Comunidad*: Red de profesionales para apoyo y colaboración
+
+=== Gestión profesional
+
+* *Portal de gestión*: Plataforma para gestionar proyectos y clientes
+* *Facturación*: Herramientas para facturación y contabilidad
+* *Contratos*: Templates y apoyo legal básico
+* *Portfolio*: Plataforma para mostrar tu trabajo
+
+=== Desarrollo profesional
+
+* *Certificaciones*: Oportunidades de certificación
+* *Crecimiento*: Recursos para desarrollo de habilidades
+* *Networking*: Eventos y oportunidades de networking
+* *Reconocimiento*: Reconocimiento por trabajo destacado
+
+== Perfiles profesionales
+
+Buscamos freelancers en diversas áreas:
+
+=== Desarrollo de software
+
+* Frontend, Backend, Full-stack
+* Móvil (iOS, Android)
+* DevOps y Cloud
+* Sistemas embebidos
+
+=== Diseño
+
+* Diseño UI/UX
+* Diseño gráfico
+* Diseño de productos
+* Arquitectura de información
+
+=== Especialistas técnicos
+
+* QA y Testing
+* Seguridad informática
+* Análisis de datos
+* Machine Learning / AI
+
+=== Consultoría
+
+* Arquitectura de software
+* Transformación digital
+* Gestión de proyectos
+* Capacitación técnica
+
+== Proceso de registro
+
+=== Paso 1: Crear perfil
+
+Crea un perfil completo que muestre:
+
+* Habilidades y experiencia
+* Portfolio de trabajos anteriores
+* Certificaciones y educación
+* Disponibilidad y tarifas
+
+=== Paso 2: Verificación
+
+Proceso de verificación para asegurar:
+
+* Identidad verificada
+* Habilidades validadas
+* Referencias verificadas
+* Portafolio revisado
+
+=== Paso 3: Aprobación
+
+Una vez aprobado, tendrás:
+
+* Acceso completo a la plataforma
+* Posibilidad de aplicar a proyectos
+* Acceso a recursos y herramientas
+* Membresía en la comunidad
+
+== Cómo funciona
+
+=== Encontrar proyectos
+
+1. Explora proyectos disponibles
+2. Filtra por habilidades, tipo y presupuesto
+3. Lee descripciones detalladas
+4. Aplica a proyectos de interés
+
+=== Trabajar en proyectos
+
+1. Propón tu enfoque y presupuesto
+2. Negocia términos con el cliente
+3. Firmas contrato a través de la plataforma
+4. Trabajas y entregas según acuerdos
+5. Recibes pago de forma segura
+
+=== Gestión de trabajo
+
+* Dashboard para gestionar todos tus proyectos
+* Tracking de tiempo y productividad
+* Comunicación integrada con clientes
+* Reportes y facturación automatizados
+
+== Tarifas y pagos
+
+=== Estructura de tarifas
+
+* Define tus propias tarifas
+* Por hora, por proyecto o híbrido
+* Negociación flexible con clientes
+* Transparencia en costos
+
+=== Pagos seguros
+
+* Sistema de pagos protegido
+* Garantías para freelancers
+* Pagos puntuales
+* Múltiples métodos de pago
+
+=== Comisiones
+
+* Comisión de plataforma transparente
+* Solo se cobra por proyectos exitosos
+* Sin tarifas ocultas
+
+== Recursos y soporte
+
+=== Desarrollo de habilidades
+
+* Cursos y capacitaciones
+* Talleres especializados
+* Webinars y charlas
+* Recursos de aprendizaje
+
+=== Herramientas
+
+* Acceso a herramientas de desarrollo
+* Licencias de software (cuando aplique)
+* Espacios de coworking (descuentos)
+* Infraestructura de testing
+
+=== Comunidad
+
+* Foros de discusión
+* Grupos por especialidad
+* Eventos y meetups
+* Mentoría entre pares
+
+== Mejores prácticas
+
+=== Para freelancers
+
+* *Comunicación clara*: Mantén comunicación abierta con clientes
+* *Entregas puntuales*: Respeta deadlines y compromisos
+* *Calidad*: Entrega trabajo de alta calidad
+* *Profesionalismo*: Mantén estándares profesionales
+* *Crecimiento continuo*: Invierte en desarrollar habilidades
+
+=== Construir reputación
+
+* Completa proyectos exitosamente
+* Obtén reseñas positivas de clientes
+* Construye un portfolio sólido
+* Participa activamente en la comunidad
+
+== Protecciones
+
+=== Para freelancers
+
+* Contratos estándar protegen tus derechos
+* Sistema de resolución de disputas
+* Pagos garantizados para trabajo completado
+* Protección de propiedad intelectual
+
+=== Seguridad
+
+* Clientes verificados
+* Proyectos revisados
+* Sistema de calificaciones
+* Mecanismos de reporte
+
+== Casos de éxito
+
+Freelancers en nuestra plataforma han trabajado en:
+
+* Proyectos de startups exitosas
+* Desarrollo de aplicaciones con millones de usuarios
+* Sistemas críticos empresariales
+* Proyectos de código abierto destacados
+
+== Preguntas frecuentes
+
+=== ¿Cuánto cuesta unirse?
+
+El registro es gratuito. Solo pagas comisión cuando completas proyectos exitosamente.
+
+=== ¿Puedo trabajar con clientes fuera de la plataforma?
+
+Sí, pero recomendamos usar la plataforma para protección y beneficios adicionales.
+
+=== ¿Qué pasa si tengo problemas con un cliente?
+
+Tenemos un sistema de resolución de disputas y apoyo para resolver problemas.
+
+== Contacto
+
+Para más información sobre Freelancers:
+
+* *Email*: freelancers@coderic.org
+* *Formulario de registro*: Disponible en coderic.org
+* *FAQ*: Preguntas frecuentes detalladas
+
+¡Únete a nuestra comunidad de freelancers y haz crecer tu carrera profesional!

@@ -21,7 +21,7 @@ La filosofía de Coderic sirve de fundamento para desarrollar y perpetuar una or
 - Software libre
 - Transparencia política
 
-== Prinicipios del Aprendizaje Dialógico
+== Principios del Aprendizaje Dialógico
 
 - Diálogo igualitario
 - Inteligencia cultural
@@ -43,11 +43,37 @@ La filosofía de Coderic sirve de fundamento para desarrollar y perpetuar una or
 
 == ¿En qué creemos?
 
-TODO
+En Coderic creemos firmemente en el poder transformador de la tecnología cuando se aplica con propósito y valores sólidos. Nuestras creencias fundamentales se basan en:
+
+* *Tecnología al servicio de las personas*: Creemos que la tecnología debe estar al servicio de las personas y no al revés. Cada solución que desarrollamos tiene como objetivo mejorar la vida de quienes la utilizan.
+
+* *Software libre y abierto*: Estamos comprometidos con los principios del software libre y el código abierto. Creemos en la libertad de usar, estudiar, modificar y distribuir software.
+
+* *Innovación colaborativa*: Creemos que la mejor innovación surge de la colaboración, el intercambio de conocimientos y la diversidad de perspectivas.
+
+* *Democracia y transparencia*: Valoramos la transparencia en nuestros procesos y decisiones, promoviendo una organización democrática donde cada voz cuenta.
+
+* *Educación continua*: Creemos que el aprendizaje es un proceso de por vida y que la educación tecnológica debe ser accesible para todos.
+
+* *Desarrollo sostenible*: Estamos comprometidos con prácticas que respetan el medio ambiente y promueven la sostenibilidad a largo plazo.
+
+* *Empoderamiento comunitario*: Creemos en el poder de las comunidades para generar cambios positivos y empoderar a sus miembros a través de la tecnología.
 
 == ¿Qué es Coderic?
 
-TODO
+Coderic es una *casa de software* especializada en ingeniería de software y desarrollo de ecosistemas tecnológicos. Somos una corporación orientada al desarrollo estratégico de recursos de información comercial, fundada con el propósito de proporcionar herramientas tecnológicas e integración al alcance de todos.
+
+Fundamentalmente, Coderic es:
+
+* *Una organización de desarrollo de software*: Desarrollamos soluciones personalizadas, sistemas a medida y productos tecnológicos que impulsan el éxito de nuestros clientes y usuarios.
+
+* *Un ecosistema tecnológico integral*: A través de nuestros portales (coderic.org, coderic.co, coderic.net, coderic.cloud), ofrecemos una gama completa de servicios tecnológicos desde desarrollo hasta infraestructura en la nube.
+
+* *Una comunidad de profesionales*: Somos una comunidad de desarrolladores, ingenieros y profesionales tecnológicos apasionados por la innovación y la excelencia.
+
+* *Un centro de conocimiento*: Proporcionamos recursos educativos, documentación y capacitación para apoyar el crecimiento profesional y empresarial.
+
+* *Una organización con valores*: Operamos bajo principios de software libre, transparencia, democracia directa y compromiso social.
 
 == ¿De qué se trata Coderic?
 
@@ -55,7 +81,30 @@ Pretendemos ofrecer las herramientas adecuadas en la medida que vamos entendiend
 
 == ¿Cómo está organizado Coderic?
 
-TODO
+Coderic está organizada siguiendo principios de democracia directa y participación cooperativa. Nuestra estructura organizacional se basa en:
+
+=== Estructura organizacional
+
+* *Asamblea General*: Órgano máximo de decisión donde todos los miembros tienen voz y voto.
+* *Equipo de Desarrollo*: Profesionales especializados en diferentes áreas tecnológicas que ejecutan los proyectos.
+* *Comités de Trabajo*: Grupos focales para áreas específicas como seguridad, infraestructura, comunidad y desarrollo.
+
+=== Principios de organización
+
+* *Participación democrática*: Las decisiones importantes se toman de forma democrática con la participación de todos los miembros.
+* *Autonomía de equipos*: Los equipos de trabajo tienen autonomía para tomar decisiones técnicas dentro de su ámbito.
+* *Transparencia*: Toda la información relevante está disponible para todos los miembros de la organización.
+* *Coordinación horizontal*: No existe una jerarquía tradicional; la coordinación se realiza de forma horizontal.
+
+=== Áreas de trabajo
+
+Coderic se organiza en diferentes áreas que abordan distintos aspectos del ecosistema tecnológico:
+
+* *Desarrollo de Software*: Creación de aplicaciones y sistemas personalizados
+* *Infraestructura y DevOps*: Gestión de servidores, servicios en la nube y automatización
+* *Servicios Profesionales*: Consultoría, desarrollo de proyectos empresariales
+* *Comunidad y Educación*: Organización de eventos, capacitación y recursos educativos
+* *Innovación y Proyectos Especiales*: Investigación y desarrollo de nuevas tecnologías
 
 == Nuestra Misión
 
