@@ -1,3 +1,447 @@
-= Descripción General
+= Coderic Crowdfunding
 
-TODO
+Plataforma de financiamiento colectivo especializada en proyectos tecnológicos, donde emprendedores e innovadores pueden obtener el capital necesario para convertir sus ideas en realidad.
+
+== ¿Qué es Coderic Crowdfunding?
+
+Coderic Crowdfunding es una plataforma de financiamiento colectivo (crowdfunding) enfocada exclusivamente en proyectos de tecnología, software, hardware y emprendimientos digitales. Conectamos emprendedores con una comunidad de backers apasionados por la innovación tecnológica.
+
+=== Nuestra Misión
+
+Democratizar el acceso al capital para proyectos tecnológicos en Latinoamérica, permitiendo que las mejores ideas puedan materializarse sin importar el background financiero de sus creadores.
+
+=== ¿Por Qué Crowdfunding Tech?
+
+* *Validación temprana*: Prueba tu idea con el mercado antes de invertir mucho
+* *Comunidad involucrada*: Construye una base de usuarios desde el día uno
+* *Sin deuda*: No necesitas pedir préstamos ni entregar equity (en modelo reward-based)
+* *Feedback valioso*: Recibe retroalimentación directa de tus primeros usuarios
+* *Marketing incorporado*: La campaña misma genera buzz y visibilidad
+
+== Tipos de Crowdfunding
+
+=== Reward-Based Crowdfunding
+
+El modelo más común: los backers reciben recompensas a cambio de su aporte.
+
+*Ideal para*:
+
+* Productos de hardware (dispositivos, gadgets, wearables)
+* Software y aplicaciones
+* Juegos indie
+* Proyectos creativos con componente tech
+* Cursos y contenido educativo
+
+*Comisión de plataforma: 8% del total recaudado*
+
+=== Equity Crowdfunding
+
+Los backers reciben participación accionaria en la empresa.
+
+*Ideal para*:
+
+* Startups tech en etapa seed
+* Empresas que buscan escalamiento
+* Proyectos con modelo de negocio validado
+* Emprendimientos con proyecciones claras de ROI
+
+*Comisión de plataforma: 7% + 2% equity*
+
+[NOTE]
+====
+El equity crowdfunding requiere cumplir con regulaciones específicas. Nuestro equipo legal te asesora en el proceso.
+====
+
+=== Donation-Based Crowdfunding
+
+Donaciones sin esperar recompensas, ideal para proyectos de impacto social.
+
+*Ideal para*:
+
+* Open source projects
+* Proyectos educativos
+* Herramientas para comunidades
+* Iniciativas sin fines de lucro
+
+*Comisión de plataforma: 5%*
+
+== Cómo Funciona
+
+=== Para Creadores de Proyectos
+
+==== 1. Aplica y Presenta tu Proyecto
+
+* Completa la aplicación en línea
+* Describe tu proyecto, equipo y objetivos
+* Define tu meta de financiamiento
+* Establece timeline y milestones
+* Crea video pitch (recomendado)
+
+==== 2. Revisión y Asesoría
+
+* Nuestro equipo revisa tu aplicación (48-72 horas)
+* Si es aprobado, recibes mentoría para optimizar la campaña:
+  - Refinamiento del pitch
+  - Estrategia de recompensas
+  - Plan de marketing
+  - Proyecciones financieras
+
+==== 3. Prepara tu Campaña
+
+* Diseña tu página de proyecto
+* Crea niveles de recompensa atractivos
+* Graba video pitch profesional (podemos ayudarte)
+* Prepara materiales de marketing
+* Define estrategia de comunicación
+
+==== 4. Lanza y Promociona
+
+* Publicación de la campaña (30-60 días típicamente)
+* Email y redes sociales a tu network
+* Updates regulares a backers
+* Engagement con la comunidad
+* Stretch goals si superas la meta
+
+==== 5. Recibe Fondos y Ejecuta
+
+* Si alcanzas tu meta, recibes los fondos (menos comisiones)
+* Mantén comunicación constante con backers
+* Cumple con las recompensas prometidas
+* Documenta el progreso
+* Construye relación a largo plazo con tu comunidad
+
+=== Para Backers (Patrocinadores)
+
+==== 1. Explora Proyectos
+
+* Navega por categorías:
+  - Software & Apps
+  - Hardware & IoT
+  - Inteligencia Artificial
+  - Blockchain & Web3
+  - Gaming
+  - EdTech
+  - HealthTech
+  - FinTech
+
+==== 2. Investiga y Evalúa
+
+Cada proyecto incluye:
+
+* Descripción detallada
+* Video pitch
+* Información del equipo
+* Roadmap y timeline
+* Uso de fondos
+* Riesgos y desafíos
+* Updates regulares
+
+==== 3. Respalda el Proyecto
+
+* Selecciona nivel de recompensa
+* Realiza el pago seguro
+* Recibe confirmación y acceso a updates exclusivos
+* Participa en la comunidad del proyecto
+
+==== 4. Sigue el Progreso
+
+* Recibe actualizaciones del creador
+* Participa en encuestas y feedback
+* Conecta con otros backers
+* Recibe tus recompensas cuando estén listas
+
+== Categorías de Proyectos
+
+=== Software & Aplicaciones
+
+* Aplicaciones móviles (iOS, Android)
+* Web applications (SaaS)
+* Software empresarial
+* Herramientas para desarrolladores
+* Plugins y extensiones
+
+=== Hardware & IoT
+
+* Dispositivos inteligentes
+* Wearables
+* Domótica
+* Sensores y actuadores
+* Prototipos electrónicos
+
+=== Inteligencia Artificial & ML
+
+* Modelos de ML
+* Aplicaciones de computer vision
+* NLP tools
+* Automatización inteligente
+* Datasets y research
+
+=== Blockchain & Web3
+
+* DApps (aplicaciones descentralizadas)
+* Smart contracts
+* NFT projects
+* DeFi tools
+* DAO platforms
+
+=== Gaming
+
+* Videojuegos indie
+* Game engines
+* Gaming tools
+* Mods y expansiones
+* Educational games
+
+=== EdTech
+
+* Plataformas de aprendizaje
+* Cursos especializados
+* Herramientas educativas
+* LMS (Learning Management Systems)
+* Contenido educativo
+
+=== HealthTech
+
+* Aplicaciones de salud
+* Wearables médicos
+* Telemedicina
+* Health monitoring
+* Fitness tech
+
+=== FinTech
+
+* Soluciones de pago
+* Gestión financiera personal
+* Herramientas de inversión
+* Criptomonedas
+* Banking tools
+
+== Ventajas de Usar Coderic Crowdfunding
+
+=== Para Creadores
+
+* *Comunidad tech especializada*: Backers que entienden tu proyecto
+* *Mentoría incluida*: Asesoría gratuita en estrategia de campaña
+* *Visibilidad*: Promoción en nuestros canales con miles de seguidores
+* *Herramientas profesionales*: Dashboard completo para gestionar tu campaña
+* *Networking*: Conexión con inversores, mentores y colaboradores
+* *Soporte técnico*: Ayuda en aspectos técnicos del proyecto
+* *Recursos educativos*: Guías, templates y best practices
+
+=== Para Backers
+
+* *Proyectos curados*: Solo aprobamos proyectos viables y bien planificados
+* *Transparencia total*: Información completa sobre cada proyecto
+* *Protección de pago*: Sistema de pago seguro
+* *Refund policy*: Si el proyecto no alcanza su meta (en modelo all-or-nothing)
+* *Early access*: Acceso anticipado a productos innovadores
+* *Comunidad*: Conecta con otros apasionados por tech
+* *Impacto real*: Ayuda a construir el futuro de la tecnología
+
+== Modelos de Financiamiento
+
+=== All-or-Nothing
+
+* El proyecto debe alcanzar el 100% de su meta
+* Si no lo logra, se devuelve el dinero a los backers
+* Reduce riesgo para backers
+* Motivación extra para creadores
+
+*Recomendado para*: La mayoría de proyectos
+
+=== Flexible Funding
+
+* El creador recibe lo recaudado incluso si no alcanza la meta
+* Mayor flexibilidad pero mayor riesgo para backers
+* Debe demostrar viabilidad con fondos parciales
+
+*Recomendado para*: Proyectos escalables o en etapas
+
+== Estructura de Recompensas
+
+=== Ejemplos de Niveles de Recompensa
+
+==== Early Bird ($10-25)
+
+* Acceso early beta
+* Nombre en credits
+* Updates exclusivos
+* Stickers/digital goodies
+
+==== Standard Backer ($25-75)
+
+* Producto/servicio completo al launch
+* Todo lo anterior
+* Descuento vitalicio
+* Acceso a comunidad privada
+
+==== Super Backer ($75-250)
+
+* Versión premium o con extras
+* Todo lo anterior
+* Consultas con el equipo
+* Merchandise físico
+
+==== Corporate/Investor ($250+)
+
+* Licencias múltiples
+* Personalización
+* Soporte prioritario
+* Posible participación accionaria
+
+== Requisitos para Proyectos
+
+=== Criterios de Aceptación
+
+Para ser aceptado en la plataforma, tu proyecto debe:
+
+* *Ser innovador*: Aportar valor o novedad al mercado
+* *Ser viable*: Demostrar factibilidad técnica y financiera
+* *Tener equipo capaz*: Habilidades necesarias para ejecutar
+* *Cumplir regulaciones*: Estar dentro del marco legal
+* *Ser ético*: No promover contenido dañino o ilegal
+* *Tener plan claro*: Timeline y uso de fondos definidos
+
+=== Documentación Requerida
+
+* Pitch deck (presentación del proyecto)
+* Video pitch (2-5 minutos)
+* Prototipo o MVP (si aplica)
+* Plan de negocio básico
+* Presupuesto detallado
+* Información del equipo
+* Referencias o proyectos anteriores
+
+== Recursos para Creadores
+
+=== Guías y Tutoriales
+
+* Cómo crear un pitch efectivo
+* Estrategias de marketing para crowdfunding
+* Diseño de recompensas atractivas
+* Engagement con backers
+* Fulfillment y logística
+* Post-campaign best practices
+
+=== Templates Disponibles
+
+* Pitch deck template
+* Budget spreadsheet
+* Timeline planning tool
+* Email templates para backers
+* Social media calendar
+* Press kit template
+
+=== Mentoría y Soporte
+
+* Sesiones 1-on-1 con expertos en crowdfunding
+* Revisión de materiales de campaña
+* Asesoría en estrategia de marketing
+* Ayuda con aspectos técnicos
+* Conexión con proveedores y fabricantes
+* Networking con inversores
+
+== Casos de Éxito
+
+=== SmartHome Hub - $150,000 recaudados
+
+[quote, Equipo SmartHome Hub]
+____
+Gracias a Coderic Crowdfunding no solo recaudamos los $50,000 que necesitábamos, sino que triplicamos la meta. La comunidad tech de Coderic entendió inmediatamente el valor de nuestro producto.
+____
+
+=== EduLearn Platform - $85,000 recaudados
+
+[quote, Fundadora de EduLearn]
+____
+La mentoría que recibimos antes y durante la campaña fue invaluable. Refinamos nuestro pitch y estrategia, lo que resultó en una campaña exitosa al 170% de la meta original.
+____
+
+=== OpenAI Tools - $120,000 recaudados (donation-based)
+
+[quote, Creador de OpenAI Tools]
+____
+No esperábamos que un proyecto open source pudiera recaudar tanto. La comunidad de Coderic valora y apoya proyectos que benefician a todos.
+____
+
+== Comienza tu Campaña
+
+=== Paso 1: Verifica si estás listo
+
+Checklist pre-aplicación:
+
+- [ ] Tengo un MVP o prototipo funcional
+- [ ] He definido claramente mi meta de financiamiento
+- [ ] Conozco mi mercado objetivo
+- [ ] Tengo equipo capaz de ejecutar
+- [ ] He calculado costos realísticamente
+- [ ] Tengo plan de marketing
+- [ ] Puedo dedicar tiempo a la campaña (30-60 días)
+
+=== Paso 2: Aplica
+
+* Completa el formulario: https://crowdfunding.coderic.org/apply[crowdfunding.coderic.org/apply]
+* Sube tu pitch deck y video pitch
+* Proporciona información del equipo
+* Define tu meta y timeline
+
+=== Paso 3: Revisión
+
+* Nuestro equipo revisa en 48-72 horas
+* Recibes feedback y recomendaciones
+* Si es aprobado, pasas a la fase de preparación
+
+=== Paso 4: Preparación (1-2 semanas)
+
+* Trabajamos juntos en optimizar la campaña
+* Refinamos pitch y recompensas
+* Preparamos materiales de marketing
+* Definimos estrategia de launch
+
+=== Paso 5: ¡Lanza!
+
+* Publicación de la campaña
+* Promoción activa durante 30-60 días
+* Updates regulares
+* Engagement con backers
+* ¡Alcanza tu meta!
+
+== Preguntas Frecuentes
+
+*¿Cuánto cuesta usar la plataforma?*
+
+Solo cobramos comisión si tu campaña tiene éxito. No hay costos por adelantado.
+
+*¿Cuánto tiempo dura una campaña típica?*
+
+Entre 30 y 60 días. Campañas más largas tienden a perder momentum.
+
+*¿Qué pasa si no alcanzo mi meta?*
+
+En modelo all-or-nothing, se devuelve el dinero a los backers. En flexible funding, recibes lo recaudado.
+
+*¿Puedo hacer una campaña internacional?*
+
+Sí, aceptamos backers de cualquier país. Los pagos se procesan en USD.
+
+*¿Qué métodos de pago aceptan?*
+
+Tarjetas de crédito/débito, PayPal, transferencias bancarias, y criptomonedas (Bitcoin, Ethereum).
+
+*¿Ofrecen protección contra fraude?*
+
+Sí, verificamos todos los proyectos y creadores. Además, tenemos sistema de reportes y resolución de disputas.
+
+== Contacto
+
+¿Listo para lanzar tu proyecto?
+
+* Email: crowdfunding@coderic.org
+* Web: https://crowdfunding.coderic.org[crowdfunding.coderic.org]
+* Aplica ahora: https://crowdfunding.coderic.org/apply[crowdfunding.coderic.org/apply]
+* Calendario de asesoría: https://calendly.com/coderic-crowdfunding[calendly.com/coderic-crowdfunding]
+
+[IMPORTANT]
+====
+El crowdfunding no es solo sobre dinero, es sobre construir una comunidad que cree en tu visión. Con Coderic Crowdfunding, no solo recaudas fondos, construyes tu base de primeros usuarios y evangelistas.
+====

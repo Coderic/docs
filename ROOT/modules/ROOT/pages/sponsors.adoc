@@ -1,3 +1,196 @@
 = Patrocinadores
 
-TODO
+Los patrocinadores son una parte fundamental del ecosistema Coderic. Gracias a su apoyo, podemos mantener nuestra infraestructura, ofrecer servicios gratuitos a la comunidad, organizar eventos y continuar desarrollando recursos educativos de calidad.
+
+== ?Por qu? Patrocinar a Coderic?
+
+Al patrocinar a Coderic, no solo est?s apoyando una organizaci?n tecnol?gica, est?s invirtiendo en:
+
+=== Impacto Social
+
+* *Educaci?n accesible*: Formaci?n gratuita para miles de personas en Latinoam?rica
+* *Desarrollo de talento*: Contribuyes al crecimiento de la pr?xima generaci?n de profesionales tech
+* *Inclusi?n digital*: Ayudas a reducir la brecha tecnol?gica en la regi?n
+* *Emprendimiento*: Apoyas a emprendedores tecnol?gicos a materializar sus ideas
+
+=== Visibilidad de Marca
+
+* *Exposici?n a la comunidad tech*: Miles de desarrolladores, dise?adores y profesionales IT
+* *Presencia en eventos*: Logo y reconocimiento en meetups, conferencias y talleres
+* *Contenido colaborativo*: Oportunidades de co-crear contenido educativo
+* *Networking estrat?gico*: Conexi?n con talentos y potenciales colaboradores
+
+=== Beneficios Comerciales
+
+* *Acceso a talento*: Conexi?n directa con profesionales calificados
+* *Beta testing*: Comunidad activa para probar productos y servicios
+* *Feedback directo*: Insights valiosos de usuarios t?cnicos
+* *Posicionamiento*: Ser reconocido como aliado del desarrollo tecnol?gico en Latam
+
+== Tipos de Patrocinio
+
+=== Patrocinio Platino
+
+*Inversi?n anual: $10,000+ USD*
+
+Beneficios:
+
+* Logo destacado en homepage de todos los portales
+* Menci?n en todos los eventos y comunicaciones
+* Espacios de publicidad premium en documentaci?n y recursos
+* Post mensual patrocinado en redes sociales
+* Participaci?n en la planificaci?n estrat?gica
+* Acceso prioritario a la bolsa de talentos
+* Hosting gratuito en nuestra infraestructura
+* Webinar exclusivo para tu empresa (1 por trimestre)
+
+=== Patrocinio Oro
+
+*Inversi?n anual: $5,000 - $9,999 USD*
+
+Beneficios:
+
+* Logo en homepage y p?gina de sponsors
+* Menci?n en eventos principales
+* Espacios de publicidad en documentaci?n
+* Post bimensual en redes sociales
+* Acceso a bolsa de talentos
+* Descuentos en servicios de desarrollo
+* Webinar exclusivo (1 por semestre)
+
+=== Patrocinio Plata
+
+*Inversi?n anual: $2,500 - $4,999 USD*
+
+Beneficios:
+
+* Logo en p?gina de sponsors
+* Menci?n en newsletter mensual
+* Post trimestral en redes sociales
+* Descuentos en servicios
+* Acceso a eventos de networking
+
+=== Patrocinio Bronce
+
+*Inversi?n anual: $1,000 - $2,499 USD*
+
+Beneficios:
+
+* Logo en p?gina de sponsors
+* Menci?n en newsletter trimestral
+* Acceso a comunidad de sponsors
+* Descuentos en servicios seleccionados
+
+=== Patrocinio de Servicios
+
+?Tu empresa ofrece servicios que podr?amos necesitar? Considera un patrocinio en especie:
+
+* *Hosting/Cloud*: Servidores, almacenamiento, CDN
+* *Herramientas*: Licencias de software, plataformas de desarrollo
+* *Espacios f?sicos*: Oficinas de coworking, salas de eventos
+* *Servicios profesionales*: Legal, contabilidad, dise?o, marketing
+
+=== Micro-patrocinio
+
+*Desde $100 USD mensuales*
+
+Para peque?as empresas o individuos que quieren apoyar:
+
+* Menci?n en lista de micro-sponsors
+* Agradecimiento en redes sociales
+* Acceso a comunidad de sponsors
+
+== Patrocinadores Actuales
+
+[NOTE]
+====
+Actualmente estamos en proceso de formalizar nuestro programa de patrocinios. Si est?s interesado en ser uno de nuestros primeros sponsors oficiales, contacta con nosotros.
+====
+
+=== Patrocinadores Hist?ricos
+
+A lo largo de nuestra historia, hemos contado con el apoyo de:
+
+* *Lorini* - Hosting y servidores (2003-2007)
+* *Servicios Hosting* - Infraestructura web (2003-2007)
+* *CyberVentas* - Servicios de e-commerce (2004-2007)
+* *iCADServers* - Hosting y CDN (2005-2007)
+
+[IMPORTANT]
+====
+Agradecemos profundamente a todas las empresas e individuos que han apoyado a Coderic a lo largo de los a?os. Su confianza y apoyo han sido fundamentales para nuestro desarrollo.
+====
+
+== Uso Transparente de Fondos
+
+Creemos en la transparencia total. Los fondos de patrocinio se destinan a:
+
+* *40%* - Infraestructura y servicios (servidores, hosting, herramientas)
+* *25%* - Desarrollo de contenido educativo
+* *20%* - Organizaci?n de eventos y actividades comunitarias
+* *10%* - Mejoras de plataforma y desarrollo de software
+* *5%* - Administraci?n y operaci?n
+
+Publicamos reportes trimestrales detallando el uso de los recursos.
+
+== Alternativas de Apoyo
+
+Si no puedes hacer un patrocinio financiero, hay otras formas de apoyar:
+
+* *Difusi?n*: Comparte nuestro contenido y ay?danos a llegar a m?s personas
+* *Contribuci?n t?cnica*: Aporta c?digo, documentaci?n o dise?o
+* *Mentor?a*: Dedica tiempo a ense?ar y guiar a nuevos miembros
+* *Espacios*: Cede espacios para eventos o coworking
+* *Contenido*: Crea tutoriales, videos o art?culos educativos
+
+== C?mo Convertirte en Patrocinador
+
+?Interesado en patrocinar Coderic? Es simple:
+
+1. *Contacta con nosotros*: sponsors@coderic.org
+2. *Cu?ntanos tus objetivos*: Qu? esperas lograr con el patrocinio
+3. *Elige tu nivel*: Seleccionamos juntos el nivel de patrocinio adecuado
+4. *Formalizaci?n*: Firmamos acuerdo de patrocinio
+5. *Activaci?n*: Comenzamos a trabajar juntos
+
+== Casos de ?xito
+
+=== Testimonios de Patrocinadores Anteriores
+
+[quote, Representante de Lorini (2003-2007)]
+____
+Apoyar a Coderic fue una de nuestras mejores decisiones. No solo nos dio visibilidad en la comunidad tech, sino que nos permiti? devolver algo a una comunidad que tanto nos hab?a dado.
+____
+
+== Preguntas Frecuentes
+
+*?Puedo patrocinar solo un proyecto espec?fico?*
+
+S?, ofrecemos patrocinios dirigidos a iniciativas espec?ficas como:
+
+* Un curso o serie de tutoriales espec?ficos
+* Un evento o conferencia
+* Desarrollo de una herramienta o proyecto particular
+* Becas para estudiantes
+
+*?Ofrecen recibos fiscales?*
+
+S?, emitimos documentaci?n completa de todos los patrocinios para efectos fiscales.
+
+*?Puedo cancelar mi patrocinio?*
+
+Los patrocinios anuales son compromisos de un a?o. Los mensuales pueden cancelarse con 30 d?as de anticipaci?n.
+
+*?Qu? pasa si mi empresa no es del sector tech?*
+
+?No hay problema! Valoramos el apoyo de empresas de todos los sectores que compartan nuestra visi?n de hacer la tecnolog?a m?s accesible.
+
+== Contacto
+
+Para m?s informaci?n sobre oportunidades de patrocinio:
+
+* Email: sponsors@coderic.org
+* Web: https://coderic.org/sponsors
+* GitHub: https://github.com/CodericLatam
+
+?Gracias por considerar apoyar a Coderic! Juntos podemos hacer una diferencia real en el ecosistema tecnol?gico de Latinoam?rica.

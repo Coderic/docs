@@ -1,3 +1,510 @@
-= Descripción General
+= Coderic Freelancers
 
-TODO
+Red profesional de freelancers tecnológicos especializados, conectando talento excepcional con proyectos y empresas que buscan expertise específico.
+
+== ¿Qué es Coderic Freelancers?
+
+Coderic Freelancers es una plataforma y red de profesionales independientes especializados en tecnología. No somos una plataforma de freelancing tradicional; somos una comunidad curada de expertos verificados que colaboran en proyectos de calidad.
+
+=== Nuestra Diferencia
+
+A diferencia de plataformas masivas de freelancing:
+
+* *Calidad sobre cantidad*: Solo profesionales verificados y experimentados
+* *Sin race to the bottom*: Rates justos y profesionales
+* *Comunidad real*: Networking, colaboración y apoyo mutuo
+* *Proyectos curados*: Trabajos interesantes y bien remunerados
+* *Sin comisiones abusivas*: Solo 10% vs 20-30% de otras plataformas
+
+== Para Freelancers
+
+=== ¿Por Qué Unirte?
+
+==== Proyectos de Calidad
+
+* Clientes verificados y serios
+* Proyectos tech interesantes y desafiantes
+* Empresas y startups reales
+* No más "exposure" o trabajos mal pagados
+
+==== Rates Justos
+
+* Estableces tus propias tarifas
+* No competencia de precio hacia abajo
+* Rango promedio: $50-150 USD/hora
+* Transparencia total en pagos
+
+==== Comunidad y Networking
+
+* Conecta con otros freelancers
+* Colabora en proyectos grandes
+* Comparte experiencias y conocimientos
+* Apoyo de la comunidad Coderic
+
+==== Protección y Soporte
+
+* Contratos estándar provistos
+* Sistema de pagos seguro (escrow)
+* Resolución de disputas
+* Soporte administrativo
+
+==== Crecimiento Profesional
+
+* Feedback y reviews
+* Construye tu reputación
+* Acceso a formación continua
+* Mentorías y networking
+
+=== Especialidades
+
+Buscamos profesionales en:
+
+==== Desarrollo de Software
+
+* Full Stack Developers
+* Frontend Developers (React, Vue, Angular)
+* Backend Developers (Node.js, Python, Go)
+* Mobile Developers (iOS, Android, React Native)
+* DevOps Engineers
+* QA/Testing Engineers
+
+==== Diseño
+
+* UI/UX Designers
+* Product Designers
+* Graphic Designers
+* Motion Designers
+* Branding Specialists
+
+==== Data & AI
+
+* Data Scientists
+* ML Engineers
+* Data Analysts
+* BI Specialists
+
+==== Especialistas
+
+* Security Engineers
+* Blockchain Developers
+* Game Developers
+* Technical Writers
+* Project Managers
+
+=== Requisitos para Unirte
+
+==== Experiencia Mínima
+
+* 2+ años de experiencia profesional
+* Portafolio demostrable
+* Referencias verificables
+* Inglés intermedio-avanzado (deseable)
+
+==== Skills Técnicos
+
+* Expertise profundo en tu área
+* Conocimiento de herramientas modernas
+* Mejores prácticas y estándares de industria
+* Capacidad de trabajar de forma independiente
+
+==== Soft Skills
+
+* Comunicación clara y profesional
+* Responsabilidad y cumplimiento
+* Proactividad
+* Capacidad de trabajo en equipo (cuando se requiera)
+
+=== Proceso de Aplicación
+
+==== 1. Aplica
+
+* Completa el formulario de aplicación
+* Sube tu CV y portafolio
+* Describe tu experiencia y especialidad
+* Define tus rates
+
+==== 2. Screening
+
+* Revisión de tu aplicación (3-5 días)
+* Verificación de portafolio y referencias
+* Evaluación de skills técnicos
+* Assessment de comunicación
+
+==== 3. Entrevista
+
+* Video call con el equipo (30-45 min)
+* Discusión sobre experiencia
+* Assessment técnico (si aplica)
+* Expectativas y modalidades de trabajo
+
+==== 4. Onboarding
+
+* Aprobación y bienvenida
+* Setup de perfil en plataforma
+* Introducción a la comunidad
+* Acceso a recursos y herramientas
+* ¡Listo para recibir proyectos!
+
+=== Cómo Funciona
+
+==== Recibe Proyectos
+
+Dos modalidades:
+
+*1. Invitaciones Directas*
+
+* Clientes te invitan basados en tu perfil
+* Revisas el proyecto y decides
+* Negocian términos directamente
+* Aceptas o rechazas
+
+*2. Job Board*
+
+* Navegas proyectos disponibles
+* Aplicas a los que te interesan
+* Cliente revisa aplicaciones
+* Te selecciona si haces match
+
+==== Negociación
+
+* Define alcance y entregables
+* Acuerdan timeline
+* Establecen payment terms
+* Firman contrato (template provisto)
+
+==== Trabajo
+
+* Comunicas con cliente directamente
+* Usas tus propias herramientas
+* Reportas progreso según acordado
+* Entregas según milestones
+
+==== Pago
+
+* Cliente deposita en escrow
+* Trabajas en los entregables
+* Cliente aprueba entrega
+* Recibes pago (menos 10% comisión)
+* Retiras a tu cuenta bancaria o PayPal
+
+=== Modalidades de Trabajo
+
+==== Proyectos de Precio Fijo
+
+* Alcance definido claramente
+* Precio total acordado
+* Timeline establecido
+* Pago por milestones o al completar
+
+==== Por Hora/Día
+
+* Trabajas por tiempo
+* Reportas horas trabajadas
+* Facturación semanal o quincenal
+* Más flexible para cambios
+
+==== Retainer
+
+* Horas garantizadas mensualmente
+* Ingreso recurrente estable
+* Prioridad con el cliente
+* Relación de largo plazo
+
+==== Equity-Based
+
+* Participación accionaria
+* Para startups early-stage
+* Combina con pago reducido
+* Apuesta a largo plazo
+
+=== Perfil y Portfolio
+
+Tu perfil incluye:
+
+==== Información Básica
+
+* Nombre y ubicación
+* Título profesional
+* Especialidad y skills
+* Años de experiencia
+* Rate por hora
+
+==== Portfolio
+
+* Proyectos anteriores con descripciones
+* Imágenes, enlaces, casos de estudio
+* Tecnologías utilizadas
+* Rol en cada proyecto
+
+==== Testimonios
+
+* Reviews de clientes anteriores
+* Rating general
+* Recomendaciones
+* Casos de éxito
+
+==== Disponibilidad
+
+* Horas semanales disponibles
+* Timeline de disponibilidad
+* Tipo de proyectos buscados
+* Preferencias de trabajo
+
+=== Comunidad Freelancer
+
+==== Slack/Discord
+
+* Canal exclusivo para freelancers
+* Comparte experiencias y dudas
+* Colabora con otros freelancers
+* Networking y apoyo mutuo
+
+==== Eventos
+
+* Meetups virtuales mensuales
+* Workshops de upskilling
+* Networking sessions
+* Guest talks de expertos
+
+==== Recursos
+
+* Templates de contratos
+* Calculadoras de rates
+* Guías de mejores prácticas
+* Herramientas recomendadas
+
+==== Mentoreo
+
+* Programa de mentoreo peer-to-peer
+* Feedback sobre rates y perfiles
+* Ayuda con negociaciones
+* Career coaching
+
+== Para Clientes
+
+=== ¿Por Qué Contratar Aquí?
+
+==== Talento Verificado
+
+* Todos los freelancers son screened
+* Experiencia comprobada
+* Portafolios reales
+* Referencias verificadas
+
+==== Calidad Garantizada
+
+* Solo profesionales senior
+* Expertise en tecnologías modernas
+* Mejores prácticas de desarrollo
+* Comunicación profesional
+
+==== Sin Intermediarios
+
+* Comunicación directa con freelancer
+* Sin layers burocráticos
+* Respuestas rápidas
+* Flexibilidad total
+
+==== Seguridad
+
+* Sistema de pagos seguro (escrow)
+* Contratos estándares
+* Resolución de disputas
+* Protección de ambas partes
+
+=== Cómo Contratar
+
+==== 1. Publica tu Proyecto
+
+* Describe lo que necesitas
+* Define presupuesto y timeline
+* Especifica skills requeridos
+* Modalidad de trabajo
+
+==== 2. Recibe Aplicaciones
+
+* Freelancers interesados aplican
+* Revisas perfiles y portafolios
+* Haces preguntas si es necesario
+* Shortlist de candidatos
+
+==== 3. Entrevista
+
+* Video calls con candidatos top
+* Evalúa fit técnico y cultural
+* Discute detalles del proyecto
+* Negocia términos
+
+==== 4. Contrata
+
+* Selecciona al freelancer ideal
+* Firma contrato (template provisto)
+* Deposita pago en escrow
+* ¡Comienza el proyecto!
+
+==== 5. Colabora
+
+* Trabaja directamente con freelancer
+* Comunicación según acordado
+* Revisa entregas y da feedback
+* Aprueba milestones
+
+==== 6. Pago y Review
+
+* Libera pagos al completar milestones
+* Deja review del freelancer
+* Considera retenerlo para futuros proyectos
+* Build long-term relationship
+
+=== Tipos de Proyectos
+
+Puedes contratar para:
+
+==== Proyectos One-Time
+
+* Desarrollo de MVP
+* Diseño de landing page
+* Migración de sistema
+* Feature específica
+* Auditoría de código
+
+==== Trabajo Continuo
+
+* Mantenimiento de aplicación
+* Desarrollo de features nuevas
+* Soporte y bug fixing
+* Mejoras continuas
+
+==== Consultoría
+
+* Arquitectura de software
+* Code review
+* Performance optimization
+* Security audit
+* Technical advisory
+
+==== Aumentar Equipo
+
+* Necesitas capacidad extra temporalmente
+* Expertise específico que tu equipo no tiene
+* Proyectos con deadline ajustado
+* Staff augmentation
+
+=== Costos
+
+* *Comisión de plataforma*: 5% del valor del proyecto
+* *Pago por hora*: Según rate del freelancer ($50-150 USD/hora típicamente)
+* *Fee de escrow*: 2.9% + $0.30 por transacción (cubierto por cliente)
+
+== Historias de Éxito
+
+=== María, Full Stack Developer
+
+[quote, María Rodríguez, Venezuela → España]
+____
+Coderic Freelancers me permitió trabajar con clientes internacionales de calidad sin las comisiones abusivas de otras plataformas. En 6 meses generé suficiente ingreso para mudarme a España.
+____
+
+*Proyectos completados*: 15+
+*Rate promedio*: $75 USD/hora
+*Ingresos 2024*: $85,000 USD
+
+=== Carlos, Mobile Developer
+
+[quote, Carlos Méndez, México]
+____
+Lo mejor de Coderic es la comunidad. He colaborado con otros freelancers en proyectos grandes que jamás podría haber tomado solo. Además, la calidad de proyectos es incomparable.
+____
+
+*Proyectos completados*: 20+
+*Rate promedio*: $90 USD/hora
+*Clientes recurrentes*: 8
+
+=== Ana, UX Designer
+
+[quote, Ana Torres, Argentina]
+____
+Como diseñadora, encontrar clientes que valoraran y pagaran bien por diseño era difícil. Coderic conecta con clientes que realmente entienden el valor del buen diseño.
+____
+
+*Proyectos completados*: 30+
+*Rate promedio*: $60 USD/hora
+*Retainers activos*: 3
+
+== Recursos
+
+=== Para Freelancers
+
+* *Rate Calculator*: Calcula tu rate ideal
+* *Contract Templates*: Contratos estándar editables
+* *Invoice Generator*: Genera facturas profesionales
+* *Time Tracking*: Herramientas recomendadas
+* *Accounting*: Tips de contabilidad freelance
+
+=== Para Clientes
+
+* *Project Brief Template*: Cómo describir tu proyecto
+* *Interview Questions*: Qué preguntar a freelancers
+* *Budget Estimation*: Cómo estimar costos
+* *Onboarding Checklist*: Cómo integrar freelancer a equipo
+
+== Preguntas Frecuentes
+
+=== Para Freelancers
+
+*¿Cuánto cuesta ser miembro?*
+
+Gratis. Solo cobramos 10% de comisión cuando completas un proyecto.
+
+*¿Puedo trabajar con clientes fuera de la plataforma?*
+
+Una vez conectados por la plataforma, deben trabajar dentro de ella. Después de 12 meses, pueden trabajar directamente.
+
+*¿Qué pasa si un cliente no paga?*
+
+Usamos sistema de escrow. El cliente deposita antes de comenzar. Si hay disputa, mediamos.
+
+*¿Puedo rechazar proyectos?*
+
+¡Absolutamente! Eres independiente. Aceptas solo lo que te interesa.
+
+=== Para Clientes
+
+*¿Cómo sé que el freelancer es bueno?*
+
+Todos están verificados, tienen portafolios reales y reviews de clientes anteriores.
+
+*¿Qué pasa si no estoy satisfecho?*
+
+En milestones tempranos, puedes cambiar de freelancer. Para disputas, ofrecemos mediación.
+
+*¿Puedo contratar al mismo freelancer múltiples veces?*
+
+¡Sí! De hecho lo recomendamos. Construir relaciones a largo plazo.
+
+*¿Ofrecen garantías?*
+
+Los freelancers son independientes. Sin embargo, mediamos en disputas y podemos reembolsar en casos justificados.
+
+== Únete Hoy
+
+=== Freelancers
+
+¿Listo para acceder a mejores proyectos y clientes?
+
+* Aplica: https://freelancers.coderic.net/apply[freelancers.coderic.net/apply]
+* Email: freelancers@coderic.net
+* Ver perfiles: https://freelancers.coderic.net/talent[freelancers.coderic.net/talent]
+
+=== Clientes
+
+¿Necesitas talento tech de calidad?
+
+* Publica proyecto: https://freelancers.coderic.net/post-project[freelancers.coderic.net/post-project]
+* Busca talento: https://freelancers.coderic.net/search[freelancers.coderic.net/search]
+* Email: hire@coderic.net
+
+[IMPORTANT]
+====
+Coderic Freelancers no es solo una plataforma de trabajo, es una comunidad de profesionales que se apoyan mutuamente para crecer y tener éxito. Únete y sé parte de algo más grande.
+====

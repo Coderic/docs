@@ -46,4 +46,66 @@ https://locutoresyemisorasve.blogspot.com/p/emisoras.html[Locutores y Emisoras d
 
 == En la actualidad
 
-TODO
+Después de años de transformación y aprendizaje, Coderic ha renacido como un ecosistema tecnológico integral. Hoy en día, operamos a través de múltiples plataformas interconectadas que forman un sistema completo de servicios para la comunidad tecnológica latinoamericana.
+
+=== El Ecosistema Digital
+
+Coderic ha evolucionado más allá de ser solo una organización educativa. Ahora somos:
+
+* *Una casa de software*: Desarrollando soluciones tecnológicas de calidad para clientes y proyectos propios
+* *Una academia en línea*: Con cursos, talleres y recursos educativos accesibles para todos
+* *Una comunidad activa*: Miles de desarrolladores, diseñadores y emprendedores conectados
+* *Un espacio de coworking*: Tanto físico como virtual para colaboración
+* *Una plataforma de crowdfunding*: Ayudando a financiar proyectos tecnológicos innovadores
+* *Una red de freelancers*: Conectando profesionales con oportunidades
+
+=== Nuestros Portales
+
+El ecosistema Coderic opera a través de cuatro dominios principales:
+
+* *coderic.org* - Portal corporativo y centro de documentación
+* *coderic.co* - Servicios de desarrollo de software
+* *coderic.net* - Red comunitaria y colaboración
+* *coderic.cloud* - Infraestructura y servicios en la nube
+
+=== Logros Recientes
+
+* Más de 20 años de historia continua en la industria tecnológica
+* Cientos de profesionales formados que ahora trabajan en la industria tech
+* Múltiples proyectos de código abierto activos en GitHub
+* Presencia en varios países de Latinoamérica
+* Comunidad activa y en crecimiento constante
+
+=== Hacia el Futuro
+
+Coderic continúa evolucionando. Nuestros objetivos para los próximos años incluyen:
+
+* Expandir nuestros programas educativos a más tecnologías emergentes
+* Fortalecer la red de coworking con más ubicaciones físicas
+* Desarrollar más herramientas y plataformas de código abierto
+* Crear alianzas estratégicas con universidades e instituciones
+* Consolidar nuestra plataforma de crowdfunding como referente en la región
+* Apoyar el desarrollo de más startups tecnológicas en Latinoamérica
+
+=== Un Legado de Innovación
+
+Lo que comenzó como un proyecto entre amigos en 2002 se ha convertido en una organización que ha impactado la vida de miles de personas. Cada miembro que se ha formado con nosotros, cada proyecto que hemos desarrollado, cada línea de código que hemos compartido, es parte del legado que estamos construyendo.
+
+Coderic no es solo tecnología; es una comunidad de personas apasionadas por aprender, crear y compartir. Es un espacio donde los sueños tecnológicos se hacen realidad, donde los emprendedores encuentran apoyo, y donde la próxima generación de desarrolladores da sus primeros pasos.
+
+[IMPORTANT]
+====
+La historia de Coderic está en constante construcción. Cada nuevo miembro, cada contribución, cada proyecto exitoso añade un capítulo nuevo a nuestra historia. ¿Quieres ser parte de la siguiente página? Únete a nosotros en xref:join.adoc[Involúcrate].
+====
+
+=== Agradecimientos
+
+Agradecemos profundamente a todos los que han sido parte de Coderic a lo largo de estos años:
+
+* A los fundadores que tuvieron la visión inicial
+* A todos los miembros que han contribuido con su tiempo y conocimiento
+* A las empresas que nos han patrocinado y apoyado
+* A cada estudiante que confió en nosotros para su formación
+* A la comunidad latinoamericana de desarrolladores que nos inspira cada día
+
+*Coderic sigue siendo ese sueño de 2002, pero ahora más grande, más fuerte, y con más propósito que nunca.*

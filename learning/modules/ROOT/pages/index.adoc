@@ -1,3 +1,493 @@
-= Descripción General
+= Coderic Learning
 
-TODO
+Academia de formación tecnológica con cursos, tutoriales y recursos educativos para desarrolladores, diseñadores y profesionales tech de todos los niveles.
+
+== Bienvenido a Coderic Learning
+
+Coderic Learning es nuestra plataforma educativa donde compartimos conocimiento y formamos a la próxima generación de profesionales tecnológicos en Latinoamérica. Ofrecemos cursos estructurados, tutoriales prácticos, y recursos educativos curados para ayudarte a crecer en tu carrera tech.
+
+=== Nuestra Filosofía de Aprendizaje
+
+* *Aprender haciendo*: Proyectos prácticos desde el primer día
+* *Educación accesible*: Contenido gratuito o a precios accesibles
+* *Comunidad activa*: Aprende con y de otros estudiantes
+* *Actualización constante*: Contenido siempre actualizado con las últimas tecnologías
+* *Mentoría real*: Acceso a profesionales experimentados
+
+== Nuestros Programas
+
+=== Cursos Estructurados
+
+Programas completos de formación en tecnologías específicas.
+
+==== Desarrollo Web Full Stack
+
+*Duración: 12 semanas*
+
+Conviértete en desarrollador Full Stack completo:
+
+* HTML5, CSS3, JavaScript moderno
+* React.js y Next.js
+* Node.js y Express
+* Bases de datos (PostgreSQL, MongoDB)
+* APIs RESTful y GraphQL
+* Deployment y DevOps básico
+* Proyecto final real
+
+*Formato*: Online, self-paced + live sessions semanales
+*Precio*: $299 USD (o $99/mes x 3 meses)
+
+==== Desarrollo Mobile con React Native
+
+*Duración: 8 semanas*
+
+Crea apps móviles profesionales para iOS y Android:
+
+* Fundamentos de React Native
+* Navigation y routing
+* State management (Context, Redux)
+* APIs y backend integration
+* Push notifications
+* Publishing a App Store y Google Play
+* App completa como proyecto final
+
+*Formato*: Online, self-paced + live sessions
+*Precio*: $249 USD
+
+==== DevOps y Cloud Engineering
+
+*Duración: 10 semanas*
+
+Domina DevOps y cloud infrastructure:
+
+* Linux fundamentals
+* Docker y Kubernetes
+* CI/CD pipelines
+* AWS/GCP/Azure
+* Infrastructure as Code (Terraform)
+* Monitoring y logging
+* Security best practices
+
+*Formato*: Online, self-paced + labs prácticos
+*Precio*: $349 USD
+
+==== Data Science con Python
+
+*Duración: 12 semanas*
+
+Conviértete en Data Scientist:
+
+* Python para data science
+* Pandas, NumPy, Matplotlib
+* Machine Learning (scikit-learn)
+* Deep Learning (TensorFlow/PyTorch)
+* Data visualization
+* MLOps y deployment
+* Proyectos reales con datasets
+
+*Formato*: Online, self-paced + mentorías
+*Precio*: $399 USD
+
+=== Bootcamps Intensivos
+
+Programas inmersivos de tiempo completo.
+
+==== Full Stack Bootcamp
+
+*Duración: 16 semanas (4 meses)*
+
+Programa intensivo de 0 a empleable:
+
+* Fundamentos de programación
+* Frontend (React ecosystem)
+* Backend (Node.js/Python)
+* Databases y ORMs
+* Git y colaboración
+* Testing y QA
+* Soft skills y preparación para trabajo
+* Proyecto portfolio
+* Career coaching
+* Job placement assistance
+
+*Formato*: Full-time, Mon-Fri 9am-5pm
+*Precio*: $4,999 USD (becas disponibles)
+
+==== Bootcamp de Inteligencia Artificial
+
+*Duración: 12 semanas*
+
+Especialízate en IA y Machine Learning:
+
+* Mathematics for ML
+* Python avanzado
+* ML algorithms deep dive
+* Computer vision
+* NLP
+* Reinforcement Learning
+* MLOps
+* Capstone project
+
+*Formato*: Full-time o Part-time
+*Precio*: $5,999 USD
+
+=== Cursos Cortos y Talleres
+
+Aprende skills específicos rápidamente.
+
+==== Introducción a Docker
+
+*Duración: 4 horas*
+
+Workshop intensivo sobre Docker:
+
+* Conceptos fundamentales
+* Images y containers
+* Docker Compose
+* Networking
+* Volumes
+* Best practices
+
+*Formato*: Workshop en vivo
+*Precio*: $49 USD
+
+==== Git y GitHub para Equipos
+
+*Duración: 3 horas*
+
+Domina Git colaborativo:
+
+* Git fundamentals
+* Branching strategies
+* Pull requests
+* Code review
+* GitHub Actions
+* Collaboration workflows
+
+*Formato*: Workshop en vivo
+*Precio*: $39 USD
+
+==== Testing en JavaScript
+
+*Duración: 5 horas*
+
+Testing completo para JS:
+
+* Unit testing (Jest)
+* Integration testing
+* E2E testing (Cypress/Playwright)
+* TDD methodology
+* Code coverage
+* CI integration
+
+*Formato*: Workshop en vivo
+*Precio*: $59 USD
+
+=== Rutas de Aprendizaje
+
+Secuencias curadas de cursos para objetivos específicos.
+
+==== Ruta Frontend Developer
+
+1. HTML/CSS/JavaScript Fundamentals
+2. React.js Complete Course
+3. State Management (Redux/Context)
+4. Next.js y SSR
+5. Testing en Frontend
+6. Performance Optimization
+
+*Total: 6 cursos, ~30 semanas*
+
+==== Ruta Backend Developer
+
+1. JavaScript/Python Fundamentals
+2. Node.js o Python (Django/FastAPI)
+3. Databases y SQL
+4. REST APIs Design
+5. Authentication & Security
+6. Testing y TDD
+7. DevOps Basics
+
+*Total: 7 cursos, ~32 semanas*
+
+==== Ruta DevOps Engineer
+
+1. Linux Fundamentals
+2. Bash Scripting
+3. Docker Mastery
+4. Kubernetes
+5. CI/CD Pipelines
+6. Cloud Platforms (AWS/GCP)
+7. Terraform y IaC
+8. Monitoring y Observability
+
+*Total: 8 cursos, ~36 semanas*
+
+== Recursos Gratuitos
+
+=== Tutoriales en Video
+
+Biblioteca de tutoriales gratuitos en YouTube:
+
+* xref:reactjs.adoc[Curso de React.js]
+* xref:angular.adoc[Angular Dashboard]
+* xref:docker.adoc[Curso de Docker]
+* xref:spark.adoc[Apache Spark]
+* xref:android.adoc[Desarrollo Android]
+* xref:videotutorials.adoc[Más videotutoriales]
+
+=== Blog Técnico
+
+Artículos y tutoriales escritos:
+
+* Guías paso a paso
+* Best practices
+* Comparaciones de tecnologías
+* Case studies
+* Tips y tricks
+
+*Acceso*: https://blog.coderic.org[blog.coderic.org]
+
+=== Docs y Cheat Sheets
+
+Documentación y referencias rápidas:
+
+* Cheat sheets de lenguajes
+* Guías de referencia
+* Snippets de código
+* Templates y starters
+* Listas de recursos
+
+*Acceso*: https://docs.coderic.org[docs.coderic.org]
+
+=== Live Coding Sessions
+
+Sesiones en vivo de programación:
+
+* Twitch/YouTube live streams
+* Construye proyectos en vivo
+* Q&A en tiempo real
+* Code reviews públicos
+
+*Schedule*: Miércoles y Viernes 7pm (VET/COT)
+
+=== Podcast "Code & Coffee"
+
+Podcast sobre desarrollo y tecnología:
+
+* Entrevistas con profesionales
+* Discusiones técnicas
+* Career advice
+* Industry trends
+
+*Plataformas*: Spotify, Apple Podcasts, YouTube
+
+== Modalidades de Aprendizaje
+
+=== Self-Paced Online
+
+* Acceso 24/7 a materiales
+* Aprende a tu propio ritmo
+* Videos on-demand
+* Ejercicios auto-evaluados
+* Acceso de por vida al contenido
+
+=== Live Online
+
+* Clases en vivo por Zoom
+* Interacción directa con instructor
+* Q&A en tiempo real
+* Group exercises
+* Grabaciones disponibles después
+
+=== Hybrid
+
+* Combinación de self-paced y live
+* Videos para teoría
+* Live sessions para práctica y dudas
+* Mejor de ambos mundos
+
+=== In-Person (Presencial)
+
+* Clases presenciales en Valencia, Venezuela
+* Máxima interacción
+* Networking presencial
+* Uso de instalaciones de coworking
+* (Próximamente en más ciudades)
+
+== Características de Nuestros Cursos
+
+=== Proyectos Reales
+
+* Construye portfolio desde el curso
+* Proyectos basados en casos reales
+* Código que puedes mostrar a empleadores
+* GitHub repos bien documentados
+
+=== Code Reviews
+
+* Feedback personalizado en tu código
+* Aprende de los errores
+* Mejora tu estilo de código
+* Best practices aplicadas
+
+=== Mentorías 1-on-1
+
+* Sesiones privadas con instructores
+* Ayuda personalizada
+* Career guidance
+* Dudas específicas resueltas
+
+=== Certificaciones
+
+* Certificado al completar curso
+* Validable en LinkedIn
+* Reconocido en la industria
+* Badge digital
+
+=== Comunidad de Estudiantes
+
+* Discord exclusivo para estudiantes
+* Networking con compañeros
+* Study groups
+* Apoyo mutuo
+
+=== Job Assistance
+
+* Revisión de CV
+* Preparación para entrevistas
+* Conexión con empresas hiring
+* Job board exclusivo
+* Referencias cuando es apropiado
+
+== Instructores
+
+Nuestros instructores son profesionales activos en la industria:
+
+* 5-15+ años de experiencia
+* Trabajan en empresas top tech
+* Contribuyen a open source
+* Pasión por enseñar
+* Actualizados con últimas tendencias
+
+== Precios y Becas
+
+=== Opciones de Pago
+
+* Pago único con descuento
+* Planes de pago mensuales
+* Becas para estudiantes
+* Descuentos corporativos (equipos)
+* Descuentos para miembros de la comunidad
+
+=== Programa de Becas
+
+Ofrecemos becas basadas en:
+
+* Necesidad económica
+* Mérito académico/profesional
+* Minorías en tech
+* Contribuciones a la comunidad
+
+*Becas disponibles*:
+
+* 100% - Full scholarship (limitadas)
+* 50% - Half scholarship
+* 25% - Partial scholarship
+
+*Aplica*: https://learning.coderic.org/scholarships[learning.coderic.org/scholarships]
+
+=== Income Share Agreement (ISA)
+
+Para bootcamps full-time:
+
+* Estudia ahora, paga después
+* Solo pagas cuando consigues trabajo tech
+* % de tu salario por tiempo definido
+* Cap máximo garantizado
+* Sin riesgo si no consigues trabajo
+
+*Ejemplo*: 15% de salario por 24 meses, cap $7,500 USD
+
+== Empresas que Han Contratado Nuestros Graduados
+
+* Mercado Libre
+* Globant
+* SNGULAR
+* Wizeline
+* Nearshore companies
+* Startups tech locales
+* Remote companies internacionales
+
+== Historias de Éxito
+
+=== Juan Pérez - De Mecánico a Full Stack Developer
+
+[quote]
+____
+A los 32 años decidí cambiar de carrera. El bootcamp de Coderic me dio las herramientas técnicas y la confianza para conseguir mi primer trabajo como developer. Hoy, 2 años después, soy senior developer ganando 4x mi salario anterior.
+____
+
+=== María González - Data Scientist
+
+[quote]
+____
+Venía de ingeniería civil y siempre me interesó la data. El programa de Data Science de Coderic fue intenso pero super completo. A los 3 meses de graduarme conseguí trabajo en una fintech como Data Scientist Jr.
+____
+
+=== Carlos Ramírez - DevOps Engineer
+
+[quote]
+____
+Ya era developer pero quería especializarme en DevOps. El curso fue exactamente lo que necesitaba: hands-on, actualizado, y con labs reales. Me ayudó a hacer la transición y duplicar mi salario.
+____
+
+== Preguntas Frecuentes
+
+*¿Necesito experiencia previa?*
+
+Depende del curso. Tenemos opciones desde principiantes absolutos hasta avanzados. Revisa los prerequisitos de cada curso.
+
+*¿Recibiré certificado?*
+
+Sí, todos nuestros cursos incluyen certificado de completación.
+
+*¿Hay garantía de trabajo?*
+
+No garantizamos trabajo, pero sí ofrecemos job assistance y tenemos alta tasa de empleabilidad (80%+ en 6 meses).
+
+*¿Puedo acceder a los materiales después de terminar?*
+
+Sí, tienes acceso de por vida a los materiales del curso.
+
+*¿Qué pasa si me atraso o no puedo completar a tiempo?*
+
+Los cursos self-paced no tienen deadline. Los bootcamps tienen cierta flexibilidad pero debes mantener el ritmo del grupo.
+
+*¿Ofrecen cursos en otros idiomas además de español?*
+
+Actualmente solo español, pero algunos materiales están en inglés. Estamos trabajando en contenido en inglés y portugués.
+
+== Comienza tu Aprendizaje
+
+=== Explora Cursos
+
+* Catálogo completo: https://learning.coderic.org/courses[learning.coderic.org/courses]
+* Rutas de aprendizaje: https://learning.coderic.org/paths[learning.coderic.org/paths]
+* Recursos gratuitos: https://learning.coderic.org/free[learning.coderic.org/free]
+
+=== Aplica a un Bootcamp
+
+* Bootcamps disponibles: https://learning.coderic.org/bootcamps[learning.coderic.org/bootcamps]
+* Aplica ahora: https://learning.coderic.org/apply[learning.coderic.org/apply]
+* Programa una llamada: https://calendly.com/coderic-learning[calendly.com/coderic-learning]
+
+=== Solicita Información
+
+* Email: learning@coderic.org
+* WhatsApp: [Número a completar]
+* Discord: https://discord.gg/coderic[discord.gg/coderic]
+
+[IMPORTANT]
+====
+La educación es una inversión en ti mismo. Con Coderic Learning, no solo aprendes a programar, aprendes a pensar como desarrollador, construyes proyectos reales, y te preparas para una carrera exitosa en tecnología.
+====

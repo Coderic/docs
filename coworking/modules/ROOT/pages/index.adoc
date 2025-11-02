@@ -1,4 +1,370 @@
-= Descripción General
+= Coderic Coworking
 
-TODO
-Hola mundo
+Espacios de trabajo colaborativo diseñados para desarrolladores, diseñadores, emprendedores y equipos tecnológicos que buscan un ambiente inspirador y productivo.
+
+== ¿Qué es Coderic Coworking?
+
+Coderic Coworking es más que un espacio de trabajo compartido; es un ecosistema donde la innovación, la colaboración y el aprendizaje se encuentran. Ofrecemos espacios físicos y virtuales optimizados para el trabajo tecnológico y la colaboración entre profesionales.
+
+=== Nuestra Visión
+
+Crear espacios donde los profesionales tecnológicos puedan:
+
+* Trabajar en un ambiente inspirador y productivo
+* Conectar con otros profesionales y equipos
+* Acceder a infraestructura tecnológica de primer nivel
+* Participar en una comunidad activa y colaborativa
+* Equilibrar productividad con networking y aprendizaje
+
+== Modalidades de Coworking
+
+=== Coworking Físico
+
+Espacios presenciales equipados con todo lo necesario para trabajar cómodamente:
+
+==== Hot Desk (Escritorio Flexible)
+
+* Acceso a escritorios compartidos
+* Sin puesto asignado (first-come, first-served)
+* Ideal para freelancers y nómadas digitales
+* Flexibilidad total de horarios
+
+*Precio: Desde $15 USD/día o $150 USD/mes*
+
+==== Dedicated Desk (Escritorio Dedicado)
+
+* Escritorio asignado permanentemente
+* Espacio de almacenamiento personal
+* Mayor privacidad y personalización
+* Ideal para profesionales independientes regulares
+
+*Precio: Desde $250 USD/mes*
+
+==== Private Office (Oficina Privada)
+
+* Oficina cerrada para equipos de 2-10 personas
+* Total privacidad y confidencialidad
+* Personalización completa del espacio
+* Ideal para startups y equipos pequeños
+
+*Precio: Desde $800 USD/mes*
+
+==== Meeting Rooms (Salas de Reunión)
+
+* Salas equipadas para 4-20 personas
+* Tecnología de videoconferencia
+* Pizarras y pantallas
+* Alquiler por hora o día
+
+*Precio: Desde $25 USD/hora*
+
+==== Event Space (Espacio para Eventos)
+
+* Capacidad para 50-100 personas
+* Ideal para meetups, talleres, hackathons
+* Sistema de audio y proyección
+* Catering disponible
+
+*Precio: Desde $500 USD/día*
+
+=== Coworking Virtual
+
+Para quienes trabajan remoto pero quieren los beneficios de una comunidad:
+
+==== Virtual Office
+
+* Dirección comercial en ubicación prestigiosa
+* Recepción de correspondencia
+* Acceso ocasional a espacios físicos
+* Teléfono y fax virtual
+
+*Precio: Desde $50 USD/mes*
+
+==== Online Community Membership
+
+* Acceso completo a la comunidad en Discord
+* Coworking sessions virtuales diarias
+* Accountability partners
+* Networking virtual
+
+*Precio: Gratuito para miembros de Coderic*
+
+==== Remote Team Space
+
+* Herramientas de colaboración para equipos remotos
+* Espacios virtuales persistentes
+* Integraciones con Slack, Teams, etc.
+* Soporte técnico
+
+*Precio: Desde $100 USD/mes por equipo*
+
+== Servicios y Amenidades
+
+=== Infraestructura Técnica
+
+* *Internet de alta velocidad*: Fibra óptica con 1 Gbps
+* *Backup internet*: Conexión de respaldo automático
+* *Red segura*: VPN incluida para todos los miembros
+* *Servidores locales*: Para testing y desarrollo
+* *Estaciones de trabajo*: Opcionales con hardware de última generación
+* *Impresión 3D*: Impresoras disponibles para prototipos
+* *Equipos de videoconferencia*: En todas las salas
+
+=== Comodidades
+
+* *Café y snacks ilimitados*: Incluidos en todas las membresías
+* *Cocina completa*: Microondas, refrigerador, utensilios
+* *Áreas de descanso*: Sofás, bean bags, área de siesta
+* *Duchas*: Para quienes vienen en bici o hacen ejercicio
+* *Estacionamiento*: Incluido o con descuento
+* *Lockers*: Almacenamiento seguro
+* *Limpieza diaria*: Espacios siempre impecables
+
+=== Servicios Profesionales
+
+* *Recepción*: Atención de visitas y mensajería
+* *Asistencia administrativa*: Apoyo con tareas operativas
+* *Soporte IT*: Ayuda técnica cuando la necesites
+* *Servicio de escaneo y copiado*: Sin cargos adicionales
+* *Recepción de paquetes*: Manejo de entregas
+* *Mail forwarding*: Reenvío de correspondencia
+
+=== Beneficios Comunitarios
+
+* *Eventos semanales*: Tech talks, workshops, networking
+* *Happy hours*: Viernes social con la comunidad
+* *Descuentos corporativos*: En servicios y productos tech
+* *Programa de mentoreo*: Acceso a mentores experimentados
+* *Job board*: Oportunidades exclusivas para miembros
+* *Colaboraciones*: Proyectos conjuntos con otros miembros
+
+== Ubicaciones
+
+=== Valencia, Venezuela
+
+*Dirección*: [Dirección a completar]
+
+* 500 m² de espacio
+* 50 puestos de trabajo
+* 3 salas de reunión
+* 1 sala de eventos
+* Zona de cafetería
+
+*Horario*: 24/7 con acceso por tarjeta
+
+=== Próximas Aperturas
+
+Estamos expandiendo a nuevas ciudades:
+
+* Caracas, Venezuela (2025 Q1)
+* Bogotá, Colombia (2025 Q2)
+* Ciudad de México, México (2025 Q3)
+* Buenos Aires, Argentina (2025 Q4)
+
+[NOTE]
+====
+¿Tu ciudad no está en la lista? Contáctanos si estás interesado en ayudar a establecer un Coderic Coworking en tu área: coworking@coderic.org
+====
+
+== Programas Especiales
+
+=== Startup Incubator Program
+
+Para startups tech en etapa temprana:
+
+* 3-6 meses de oficina privada subsidiada
+* Mentoría semanal con expertos
+* Acceso a inversores y partners
+* Workshops especializados
+* Demo day al final del programa
+
+*Costo: Equity de 2-5% o $500 USD/mes*
+
+=== Freelancer Fellowship
+
+Para freelancers estableciendo su negocio:
+
+* 3 meses de membresía con 50% de descuento
+* Mentoría en desarrollo de negocio
+* Networking con clientes potenciales
+* Workshops de soft skills
+
+*Aplicación requerida*
+
+=== Student Pass
+
+Para estudiantes universitarios:
+
+* Acceso de medio tiempo
+* Hot desk solamente
+* Eventos educativos gratuitos
+* Descuento de 70%
+
+*Requiere comprobante de estudios*
+
+=== Community Day Pass
+
+Para miembros de la comunidad Coderic:
+
+* 5 días gratis de hot desk al mes
+* Solo para miembros activos
+* Sujeto a disponibilidad
+* Debe reservarse con anticipación
+
+== Coworking Virtual
+
+=== Virtual Coworking Sessions
+
+Sesiones diarias de trabajo en conjunto vía videoconferencia:
+
+==== Focus Sessions
+
+* Sesiones de 2 horas de trabajo concentrado
+* Cámaras encendidas, micrófonos en mudo
+* Check-in al inicio y final
+* Accountability y productividad
+
+*Horarios*:
+- Morning Focus: 9:00 AM - 11:00 AM
+- Afternoon Focus: 2:00 PM - 4:00 PM
+- Evening Focus: 7:00 PM - 9:00 PM (América/Caracas)
+
+==== Pair Programming Sessions
+
+* Programación en pareja remota
+* Matchmaking automático por nivel y stack
+* Sesiones de 1-2 horas
+* Aprende y enseña al mismo tiempo
+
+==== Code & Coffee Virtual
+
+* Encuentro informal virtual
+* Comparte lo que estás trabajando
+* Pide ayuda o feedback
+* Networking casual
+
+*Todos los viernes 4:00 PM - 6:00 PM*
+
+=== Herramientas Virtuales
+
+Acceso a herramientas para equipos remotos:
+
+* Slack/Discord workspace privado
+* Gather.town space para coworking inmersivo
+* Miro boards ilimitados
+* Notion workspace compartido
+* GitHub Teams
+* Calendly para scheduling
+
+== Política de Uso
+
+=== Horarios
+
+* *Membresías 24/7*: Acceso total en cualquier momento
+* *Membresías de día*: 8:00 AM - 6:00 PM
+* *Membresías de noche*: 6:00 PM - 2:00 AM
+
+=== Reglas del Espacio
+
+* Respeta el espacio de trabajo de otros
+* Mantén conversaciones de voz en áreas designadas
+* Limpia después de usar espacios comunes
+* No comida fuerte en espacios de trabajo
+* Respeta las reservas de salas
+* Adherirse al código de conducta
+
+=== Código de Conducta
+
+Todos los miembros deben:
+
+* Ser respetuosos y profesionales
+* Mantener un ambiente de trabajo productivo
+* No discriminación ni acoso de ningún tipo
+* Reportar problemas a la administración
+* Cuidar las instalaciones y equipos
+
+== Testimonios
+
+[quote, Roberto Sánchez, Founder de TechStartup]
+____
+Coderic Coworking fue fundamental en los primeros 6 meses de nuestra startup. El ambiente, la comunidad y el soporte que recibimos nos ayudaron a crecer más rápido de lo que imaginamos.
+____
+
+[quote, Laura Torres, Freelance Designer]
+____
+Como freelancer, trabajar desde casa se volvió aislante. Coderic me dio un espacio profesional y una comunidad que me mantiene motivada y conectada.
+____
+
+[quote, Equipo RemoteDev, Remote Team]
+____
+Aunque somos un equipo 100% remoto distribuido, tener un espacio virtual en Coderic nos da el sentido de pertenencia y estructura que necesitábamos.
+____
+
+== Cómo Unirte
+
+=== Paso 1: Tour del Espacio
+
+* Agenda un tour gratuito
+* Conoce las instalaciones
+* Habla con miembros actuales
+* Prueba el espacio por un día
+
+=== Paso 2: Elige tu Membresía
+
+* Selecciona el plan que mejor se ajuste
+* Opciones de pago mensual o anual
+* Descuentos por pago adelantado
+* Prueba sin compromiso (primer mes)
+
+=== Paso 3: Onboarding
+
+* Firma tu acuerdo de membresía
+* Recibe tu tarjeta de acceso
+* Setup de tu cuenta y servicios
+* Tour completo de amenidades
+* Introducción a la comunidad
+
+=== Paso 4: ¡Empieza a Trabajar!
+
+* Muda tus cosas a tu espacio
+* Conéctate a la red
+* Participa en eventos
+* Conoce a otros miembros
+
+== Preguntas Frecuentes
+
+*¿Puedo probar antes de comprometerme?*
+
+Sí, ofrecemos un día de prueba gratuito y el primer mes sin compromiso de continuidad.
+
+*¿Qué incluye la membresía?*
+
+Todas las membresías incluyen: internet, café, acceso a eventos, y uso de áreas comunes.
+
+*¿Puedo traer invitados?*
+
+Sí, los miembros pueden traer hasta 2 invitados por día sin costo adicional.
+
+*¿Hay contrato de permanencia?*
+
+Las membresías mensuales pueden cancelarse con 30 días de anticipación. Las anuales tienen 10% de descuento.
+
+*¿Ofrecen servicios de dirección fiscal?*
+
+Sí, la membresía de oficina privada incluye uso de dirección para propósitos comerciales.
+
+== Contacto
+
+¿Listo para unirte o necesitas más información?
+
+* Email: coworking@coderic.org
+* WhatsApp: [Número a completar]
+* Web: https://coworking.coderic.org[coworking.coderic.org]
+* Agenda un tour: https://calendly.com/coderic-coworking[calendly.com/coderic-coworking]
+
+*Ubicación*: [Dirección completa a completar]
+
+[IMPORTANT]
+====
+El coworking es más que un espacio de trabajo; es una comunidad. Ven a experimentar la diferencia de trabajar rodeado de personas que comparten tu pasión por la tecnología.
+====

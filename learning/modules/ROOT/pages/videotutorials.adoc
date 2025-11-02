@@ -1,5 +1,139 @@
-= Vídeotutoriales
+= Videotutoriales
 
-== Angular: Trabajando con un dashboard en angular 16
+Colección completa de videotutoriales gratuitos sobre diversas tecnologías y conceptos de desarrollo de software.
 
-video::wcucVfhUbmw/PLRfcnifbUdc2wkM2go6al7ZnJjOWY6cvW[youtube, width="854",height="480"]
+== Plataformas de Video
+
+Todos nuestros videotutoriales están disponibles en:
+
+* *YouTube*: https://youtube.com/@CodericLatam[@CodericLatam]
+* *Twitch*: Para sesiones en vivo
+
+== Categorías Disponibles
+
+=== Desarrollo Web
+
+* xref:reactjs.adoc[Curso Completo de React.js]
+* xref:angular.adoc[Trabajando con Angular Dashboard]
+* Next.js - Aplicaciones con SSR
+* Vue.js - Framework Progresivo
+* TypeScript - JavaScript con Tipos
+
+=== Backend y APIs
+
+* Node.js - Desarrollo de APIs
+* Express.js - Framework Web
+* NestJS - Framework Enterprise
+* Python Django - Web Framework
+* FastAPI - APIs Modernas con Python
+
+=== Bases de Datos
+
+* PostgreSQL - Base de Datos Relacional
+* MongoDB - Base de Datos NoSQL
+* Redis - Cache y Data Store
+* Prisma - ORM Moderno
+* Database Design - Diseño de Bases de Datos
+
+=== DevOps y Cloud
+
+* xref:docker.adoc[Curso de Docker]
+* Kubernetes - Orquestación de Contenedores
+* CI/CD con GitHub Actions
+* AWS - Servicios Cloud
+* Terraform - Infrastructure as Code
+
+=== Mobile Development
+
+* xref:android.adoc[Desarrollo Android]
+* React Native - Apps Cross-Platform
+* Flutter - Framework de Google
+* iOS Development con Swift
+
+=== Data Science e IA
+
+* xref:spark.adoc[Apache Spark]
+* Python para Data Science
+* Machine Learning con scikit-learn
+* Deep Learning con TensorFlow
+* Computer Vision con OpenCV
+
+=== Herramientas y Prácticas
+
+* Git y GitHub - Control de Versiones
+* Testing - Unit, Integration, E2E
+* Code Review - Mejores Prácticas
+* Debugging - Técnicas Avanzadas
+* Performance Optimization
+
+== Cómo Usar los Tutoriales
+
+=== Para Principiantes
+
+1. Empieza con los fundamentos
+2. Sigue el orden sugerido de las playlists
+3. Practica el código mostrado
+4. Pausa y repite las secciones difíciles
+5. Une a la comunidad para hacer preguntas
+
+=== Para Intermedios
+
+1. Selecciona tutoriales de tu área de interés
+2. Construye proyectos mientras aprendes
+3. Compara tu código con el mostrado
+4. Experimenta con variaciones
+5. Comparte tus proyectos en la comunidad
+
+=== Para Avanzados
+
+1. Usa como referencia rápida
+2. Busca patrones y best practices
+3. Aprende nuevas tecnologías rápidamente
+4. Contribuye con feedback y sugerencias
+5. Considera convertirte en instructor
+
+== Nuevos Tutoriales
+
+Publicamos nuevos videos regularmente. Suscríbete para recibir notificaciones:
+
+* Nuevos videos cada semana
+* Live coding sessions los viernes
+* Q&A sessions mensuales
+* Proyectos especiales y challenges
+
+== Solicita un Tutorial
+
+¿Hay algún tema que te gustaría que cubriéramos?
+
+* Deja tu sugerencia en los comentarios de YouTube
+* Abre un issue en https://github.com/CodericLatam/docs/issues[GitHub]
+* Coméntalo en Discord
+
+Los tutoriales más solicitados serán priorizados.
+
+== Conviértete en Instructor
+
+¿Eres experto en alguna tecnología y te gustaría enseñar?
+
+Buscamos instructores para:
+
+* Crear contenido educativo de calidad
+* Grabar tutoriales en video
+* Dar workshops y charlas
+* Mentorizar estudiantes
+
+*Contacto*: learning@coderic.org
+
+== Recursos Complementarios
+
+Para aprovechar al máximo los tutoriales:
+
+* Descarga los proyectos del repositorio
+* Sigue las guías escritas en el blog
+* Une a las discusiones en Discord
+* Practica con los ejercicios propuestos
+
+[IMPORTANT]
+====
+Todo el contenido educativo de Coderic es gratuito y siempre lo será. Creemos en la educación accesible para todos.
+====

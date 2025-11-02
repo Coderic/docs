@@ -1,7 +1,127 @@
 = Involúcrate
 
-TODO
+Coderic es una comunidad abierta que recibe con los brazos abiertos a todas las personas interesadas en tecnología, desarrollo de software y emprendimiento. No importa tu nivel de experiencia, tu ubicación geográfica o tu background técnico; aquí hay espacio para todos.
+
+== ¿Por qué unirte a Coderic?
+
+Formar parte de Coderic significa ser parte de algo más grande que tú mismo. Es unirte a una red de profesionales, entusiastas y visionarios que comparten la pasión por la tecnología y el deseo de hacer una diferencia positiva en el mundo.
+
+=== Formas de Participar
+
+==== Como Miembro de la Comunidad
+
+* Participa en nuestros canales de comunicación y foros de discusión
+* Asiste a eventos, meetups y talleres virtuales y presenciales
+* Comparte tu conocimiento y aprende de otros miembros
+* Colabora en proyectos de código abierto
+* Accede a recursos educativos y materiales de aprendizaje
+
+==== Como Contribuyente
+
+* Contribuye al desarrollo de nuestros proyectos open source
+* Crea contenido educativo: tutoriales, guías, videos
+* Mejora la documentación existente
+* Reporta errores y sugiere mejoras
+* Revisa código y proporciona feedback constructivo
+
+==== Como Colaborador Activo
+
+* Lidera iniciativas y proyectos dentro de la comunidad
+* Organiza eventos y actividades
+* Mentoriza a nuevos miembros
+* Representa a Coderic en eventos externos
+* Forma parte de los equipos de trabajo especializados
+
+==== Como Emprendedor
+
+* Utiliza nuestras plataformas para desarrollar tu proyecto
+* Accede a mentorías y asesoramiento técnico
+* Conecta con inversores y partners potenciales
+* Participa en programas de incubación
+* Presenta tu proyecto en nuestra plataforma de crowdfunding
+
+==== Como Freelancer
+
+* Únete a nuestra red de profesionales independientes
+* Accede a oportunidades de proyectos
+* Colabora con equipos en proyectos desafiantes
+* Amplía tu red profesional
+* Desarrolla tu portafolio con proyectos reales
 
 == ¿Qué beneficios obtendrás?
 
-TODO
+Al formar parte de Coderic, tendrás acceso a una amplia gama de beneficios diseñados para impulsar tu crecimiento profesional y personal:
+
+=== Aprendizaje y Desarrollo
+
+* *Acceso a formación continua*: Cursos, talleres y webinars sobre las últimas tecnologías
+* *Recursos educativos*: Documentación, tutoriales y materiales de aprendizaje curados
+* *Mentoría*: Conexión con profesionales experimentados dispuestos a compartir su conocimiento
+* *Certificaciones*: Programas de certificación en tecnologías específicas
+* *Proyectos prácticos*: Oportunidad de trabajar en proyectos reales para ganar experiencia
+
+=== Networking y Comunidad
+
+* *Red profesional*: Conecta con desarrolladores, diseñadores, emprendedores e innovadores
+* *Eventos exclusivos*: Acceso a meetups, conferencias y eventos de la comunidad
+* *Colaboración*: Trabaja en equipo con profesionales de diferentes partes del mundo
+* *Comunidad de apoyo*: Un espacio seguro para hacer preguntas, compartir dudas y recibir ayuda
+
+=== Oportunidades Profesionales
+
+* *Proyectos freelance*: Acceso a oportunidades de trabajo independiente
+* *Colaboraciones*: Participa en proyectos colaborativos con otros miembros
+* *Visibilidad*: Muestra tu trabajo y habilidades a la comunidad
+* *Referencias*: Sistema de recomendaciones y referencias profesionales
+* *Bolsa de trabajo*: Acceso prioritario a ofertas laborales de empresas aliadas
+
+=== Recursos y Herramientas
+
+* *Infraestructura*: Acceso a servidores, herramientas de desarrollo y servicios en la nube
+* *Espacios de coworking*: Uso de espacios físicos de trabajo colaborativo
+* *Licencias de software*: Acceso a herramientas y plataformas con descuentos especiales
+* *Biblioteca de recursos*: Repositorios de código, plantillas y assets reutilizables
+
+=== Apoyo al Emprendimiento
+
+* *Asesoría técnica*: Consultoría gratuita para validar y desarrollar tu idea
+* *Financiamiento*: Acceso a nuestra plataforma de crowdfunding
+* *Incubación*: Programas de acompañamiento para proyectos en etapa temprana
+* *Networking con inversores*: Conexión con potenciales inversores y partners
+
+=== Reconocimiento y Crecimiento
+
+* *Reconocimiento público*: Destacamos las contribuciones valiosas de los miembros
+* *Liderazgo*: Oportunidades de liderar iniciativas y proyectos
+* *Desarrollo de marca personal*: Construye tu reputación en la comunidad tecnológica
+* *Participación en decisiones*: Voz y voto en las decisiones importantes de la comunidad
+
+== ¿Cómo Unirte?
+
+Unirte a Coderic es simple y gratuito:
+
+1. *Visita nuestro portal*: https://coderic.org[coderic.org]
+2. *Únete a nuestros canales de comunicación*:
+   - Discord: Para chat en tiempo real y colaboración
+   - GitHub: Para contribuciones de código
+   - Foros: Para discusiones más estructuradas
+3. *Preséntate*: Cuéntanos quién eres, qué haces y qué te interesa
+4. *Explora*: Navega por nuestros proyectos, recursos y documentación
+5. *Participa*: Empieza a contribuir de la manera que prefieras
+
+== Código de Conducta
+
+Todos los miembros deben adherirse a nuestro xref:CODE_OF_CONDUCT.adoc[Código de Conducta]. Estamos comprometidos con crear un ambiente inclusivo, respetuoso y libre de acoso para todos.
+
+== Contacto
+
+¿Tienes preguntas? Contáctanos:
+
+* Email: latam@coderic.org
+* Web: https://coderic.org
+* GitHub: https://github.com/CodericLatam
+
+[IMPORTANT]
+====
+La participación en Coderic es completamente gratuita. Nunca te pediremos dinero para ser parte de la comunidad. Si alguien te solicita pagos en nombre de Coderic, por favor repórtalo inmediatamente.
+====
