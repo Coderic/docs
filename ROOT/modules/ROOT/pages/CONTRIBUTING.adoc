@@ -1,8 +1,8 @@
 = Contribuyendo
 
-?Gracias por tu inter?s en contribuir a Coderic! Esta gu?a te ayudar? a entender c?mo puedes participar y hacer contribuciones significativas a nuestros proyectos.
+¡Gracias por tu interés en contribuir a Coderic! Esta guía te ayudará a entender cómo puedes participar y hacer contribuciones significativas a nuestros proyectos.
 
-== C?mo contribuir
+== Cómo contribuir
 
 Hay muchas formas de contribuir a Coderic, y todas son valiosas:
 
@@ -12,22 +12,22 @@ Si encuentras un bug o tienes una sugerencia:
 
 . Busca si ya existe un issue relacionado
 . Si no existe, crea un nuevo issue en el repositorio correspondiente
-. Proporciona informaci?n detallada: pasos para reproducir, comportamiento esperado vs. actual
-. Incluye informaci?n del entorno: versi?n, sistema operativo, etc.
+. Proporciona información detallada: pasos para reproducir, comportamiento esperado vs. actual
+. Incluye información del entorno: versión, sistema operativo, etc.
 
-=== Mejorar documentaci?n
+=== Mejorar documentación
 
-La documentaci?n siempre puede mejorar:
+La documentación siempre puede mejorar:
 
-* Corrige errores tipogr?ficos o gramaticales
+* Corrige errores tipográficos o gramaticales
 * Mejora la claridad de las explicaciones
 * Agrega ejemplos o casos de uso
 * Traduce contenido a otros idiomas
-* Agrega documentaci?n faltante
+* Agrega documentación faltante
 
-=== Contribuir c?digo
+=== Contribuir código
 
-Para contribuir c?digo:
+Para contribuir código:
 
 . Fork el repositorio
 . Crea una rama para tu feature (`git checkout -b feature/nueva-funcionalidad`)
@@ -35,14 +35,14 @@ Para contribuir c?digo:
 . Push a tu fork (`git push origin feature/nueva-funcionalidad`)
 . Abre un Pull Request
 
-=== Mejorar dise?o
+=== Mejorar diseño
 
-Si te interesa el dise?o:
+Si te interesa el diseño:
 
 * Mejora interfaces de usuario
-* Crea assets gr?ficos
+* Crea assets gráficos
 * Optimiza experiencias de usuario
-* Dise?a logos o material gr?fico
+* Diseña logos o material grófico
 
 === Organizar eventos
 
@@ -51,27 +51,27 @@ Ayuda a organizar:
 * Meetups y eventos locales
 * Conferencias y talleres
 * Sesiones de hackathon
-* Webinars y charlas t?cnicas
+* Webinars y charlas técnicas
 
-== Gu?as de contribuci?n
+== Guías de contribución
 
-=== C?digo de conducta
+=== Código de conducta
 
-Todas las contribuciones deben seguir nuestro xref:CODE_OF_CONDUCT.adoc[c?digo de conducta]. Mant?n un ambiente respetuoso y acogedor para todos.
+Todas las contribuciones deben seguir nuestro xref:CODE_OF_CONDUCT.adoc[código de conducta]. Mantón un ambiente respetuoso y acogedor para todos.
 
-=== Est?ndares de c?digo
+=== Estándares de código
 
-* *Linting*: El c?digo debe pasar las verificaciones de linting
+* *Linting*: El código debe pasar las verificaciones de linting
 * *Tests*: Agrega tests para nuevas funcionalidades
-* *Documentaci?n*: Documenta funciones y APIs p?blicas
+* *Documentación*: Documenta funciones y APIs públicas
 * *Commits*: Usa mensajes de commit claros y descriptivos
 
 === Proceso de Pull Request
 
-1. *Describe tu cambio*: Explica qu? y por qu? en la descripci?n del PR
-2. *Tests*: Aseg?rate de que todos los tests pasen
-3. *Documentaci?n*: Actualiza la documentaci?n si es necesario
-4. *Revisi?n*: Espera la revisi?n de los mantenedores
+1. *Describe tu cambio*: Explica qué y por qué en la descripción del PR
+2. *Tests*: Asegúrate de que todos los tests pasen
+3. *Documentación*: Actualiza la documentación si es necesario
+4. *Revisión*: Espera la revisión de los mantenedores
 5. *Mejoras*: Responde a los comentarios y realiza ajustes si es necesario
 
 === Branches y versionado
@@ -84,12 +84,12 @@ Todas las contribuciones deben seguir nuestro xref:CODE_OF_CONDUCT.adoc[c?digo d
 
 == Tipos de contribuciones
 
-=== Peque?as contribuciones
+=== Pequeóas contribuciones
 
-Para cambios peque?os (typos, mejoras menores):
+Para cambios pequeóos (typos, mejoras menores):
 
 . Puedes editar directamente en GitHub
-. El cambio ser? revisado y mergeado r?pidamente
+. El cambio seró revisado y mergeado rópidamente
 
 === Contribuciones mayores
 
@@ -99,12 +99,12 @@ Para cambios grandes:
 . Espera feedback antes de comenzar a trabajar
 . Sigue el proceso completo de Pull Request
 
-=== Nuevas caracter?sticas
+=== Nuevas características
 
-Para proponer nuevas caracter?sticas:
+Para proponer nuevas características:
 
 1. Abre un issue con la etiqueta "enhancement"
-2. Describe la caracter?stica y su justificaci?n
+2. Describe la caracteróstica y su justificación
 3. Discute con la comunidad
 4. Si se aprueba, procede con el desarrollo
 
@@ -115,18 +115,18 @@ Para proponer nuevas caracter?sticas:
 * *Git*: Control de versiones
 * *Editor*: Usa el editor que prefieras
 * *Testing*: Herramientas de testing del proyecto
-* *Documentaci?n*: Herramientas de documentaci?n local
+* *Documentación*: Herramientas de documentación local
 
-=== Comunicaci?n
+=== Comunicación
 
-* *GitHub Issues*: Para bugs y discusiones t?cnicas
+* *GitHub Issues*: Para bugs y discusiones técnicas
 * *GitHub Discussions*: Para preguntas y discusiones generales
-* *Email*: latam@coderic.org para temas no t?cnicos
+* *Email*: latam@coderic.org para temas no tócnicos
 
 === Recursos de aprendizaje
 
-* Documentaci?n del proyecto
-* C?digo existente como referencia
+* Documentación del proyecto
+* Código existente como referencia
 * Comunidad para hacer preguntas
 
 == Reconocimiento
@@ -135,36 +135,36 @@ Agradecemos todas las contribuciones. Los contribuidores son reconocidos en:
 
 * README del proyecto
 * Releases y changelogs
-* Documentaci?n de contribuidores
+* Documentación de contribuidores
 * Eventos y comunicaciones de la comunidad
 
 == Preguntas frecuentes
 
-=== ?Necesito ser un experto para contribuir?
+=== ¿Necesito ser un experto para contribuiró
 
-No. Las contribuciones de todos los niveles son bienvenidas. Incluso reportar bugs o mejorar documentaci?n es valioso.
+No. Las contribuciones de todos los niveles son bienvenidas. Incluso reportar bugs o mejorar documentación es valioso.
 
-=== ?C?mo elijo en qu? trabajar?
+=== ¿Cómo elijo en qué trabajaró
 
 Puedes:
 * Revisar issues etiquetados como "good first issue"
-* Preguntar en Discussions qu? necesita ayuda
+* Preguntar en Discussions qué necesita ayuda
 * Trabajar en algo que te interese personalmente
 
-=== ?Qu? pasa si mi PR es rechazado?
+=== ¿Qué pasa si mi PR es rechazadoó
 
 No te desanimes. El feedback es para mejorar. Revisa los comentarios, haz ajustes y vuelve a intentar.
 
-=== ?Puedo contribuir sin c?digo?
+=== óPuedo contribuir sin códigoó
 
-?Absolutamente! Hay muchas formas no t?cnicas de contribuir: documentaci?n, dise?o, organizaci?n de eventos, traducci?n, etc.
+¡Absolutamente! Hay muchas formas no técnicas de contribuir: documentación, diseño, organización de eventos, traducción, etc.
 
 == Contacto
 
-Si tienes preguntas sobre c?mo contribuir:
+Si tienes preguntas sobre cómo contribuir:
 
 * *Email*: latam@coderic.org
 * *GitHub Discussions*: https://github.com/CodericLatam/docs/discussions
 * *Issues*: https://github.com/CodericLatam/docs/issues
 
-?Esperamos tus contribuciones!
+¡Esperamos tus contribuciones!
