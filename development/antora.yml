@@ -6,6 +6,9 @@ asciidoc:
   attributes:
     source-language: asciidoc@
     table-caption: false
+    encoding: utf-8
+    docencoding: utf-8
+    lang: es
 ##    url-org: https://github.com/CodericLatam/
 ##    url-project: https://es.coderic.org/docs/
 nav:

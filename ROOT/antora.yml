@@ -8,5 +8,8 @@ asciidoc:
     table-caption: false
     url-org: https://github.com/CodericLatam/
     url-project: https://es.coderic.org/docs/
+    encoding: utf-8
+    docencoding: utf-8
+    lang: es
 nav:
 - modules/ROOT/nav.adoc

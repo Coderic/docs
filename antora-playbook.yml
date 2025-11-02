@@ -35,6 +35,9 @@ ui:
 asciidoc:
   attributes:
     page-component-sort-order: ROOT,development,crowdfunding,coworking,freelancers,learning,community
+    encoding: utf-8
+    lang: es
+    docencoding: utf-8
 antora:
   extensions:
   - '@antora/lunr-extension'
