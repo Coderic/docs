@@ -9,8 +9,8 @@
 ** https://coderic.org/code-of-conduct.html[Código de conducta]
 ** https://coderic.org/security-policy.html[Política de seguridad]
 ** https://coderic.org/privacy.html[Privacidad]
-** https://coderic.org/habeas-data.html[Habeas data]
-** https://coderic.org/anti-spam.html[Anti-spam]
+** https://coderic.org/HABEAS-DATA.html[Habeas data]
+** https://coderic.org/ANTI-SPAM.html[Anti-spam]
 ** https://coderic.org/contributor-agreement.html[Acuerdo de contribución]
 ** xref:CULTURE.adoc[]
 
