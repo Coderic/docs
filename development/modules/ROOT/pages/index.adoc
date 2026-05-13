@@ -93,6 +93,6 @@ Trabajamos con un stack tecnológico moderno y diverso:
 
 Para más información sobre desarrollo:
 
-* https://coderic.org/docs/contributing/[Guía de contribución]
-* Repositorios en: https://github.com/CodericLatam
+* https://coderic.org/es/contributing.html[Guía de contribución]
+* Repositorios en: https://github.com/Coderic
 * Documentación técnica específica por proyecto

@@ -1,5 +1,5 @@
 status: 200
-url: https://api.github.com/orgs/CodericLatam/members
+url: https://api.github.com/orgs/Coderic/members
 headers:
   access-control-allow-origin: "*"
   access-control-expose-headers: ETag, Link, Location, Retry-After, X-GitHub-OTP,

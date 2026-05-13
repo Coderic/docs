@@ -144,7 +144,7 @@ La comunidad Coderic es un espacio abierto donde desarrolladores, profesionales 
 
 == Código de conducta
 
-La comunidad Coderic se rige por nuestro https://coderic.org/docs/codigo_de_conducta/[Código de Conducta]. Todos los miembros deben:
+La comunidad Coderic se rige por nuestro https://coderic.org/es/code-of-conduct.html[Código de Conducta]. Todos los miembros deben:
 
 * Respetar a otros miembros
 * Mantener un ambiente acogedor
@@ -233,8 +233,8 @@ Explora y contribuye a proyectos comunitarios en desarrollo:
 
 == Recursos adicionales
 
-* *GitHub*: https://github.com/CodericLatam
-* *Documentación*: https://coderic.org/docs/
+* *GitHub*: https://github.com/Coderic
+* *Documentación*: https://docs.coderic.org/
 * *Contacto*: latam@coderic.org
 * *Eventos*: Calendario disponible en coderic.org
 
@@ -246,6 +246,6 @@ Para unirte a la comunidad:
 * Únete a nuestras discusiones
 * Asiste a un evento
 * Haz tu primera contribución
-* Lee https://coderic.org/docs/join/[Cómo unirse a Coderic]
+* Lee https://coderic.org/es/join.html[Cómo unirse a Coderic]
 
 ¡Bienvenido a la comunidad Coderic!

@@ -6,8 +6,8 @@ asciidoc:
   attributes:
     source-language: asciidoc@
     table-caption: false
-    url-org: https://github.com/CodericLatam/
-    url-project: https://es.coderic.org/docs/
+    url-org: https://github.com/Coderic/
+    url-project: https://docs.coderic.org/
     encoding: utf-8
     docencoding: utf-8
     lang: es
