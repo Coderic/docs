@@ -148,7 +148,9 @@ Para preguntas sobre infraestructura:
 
 * *Email*: infrastructure@coderic.org
 * *Documentación técnica*: https://docs.coderic.org/[Documentación]
-* *Issues*: https://github.com/CodericLatam/docs/issues[GitHub Issues]
+
+* *Issues*: https://github.com/Coderic/docs/issues[GitHub Issues]
+
 
 == Recursos adicionales
 

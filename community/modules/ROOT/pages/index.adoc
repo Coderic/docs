@@ -233,9 +233,11 @@ Explora y contribuye a proyectos comunitarios en desarrollo:
 
 == Recursos adicionales
 
-* *GitHub*: https://github.com/CodericLatam
+
+* *GitHub*: https://github.com/Coderic
 * *Documentación*: https://docs.coderic.org/
-* *Contacto*: latam@coderic.org
+* *Contacto*: coderic@coderic.org
+
 * *Eventos*: Calendario disponible en coderic.org
 
 == Únete a nosotros

@@ -1,13 +1,13 @@
 = Introducción
 
 [example]
-Puede que Coderic te parezca muchas cosas, pero la verdad es que sómos una *casa de software*, y es que nosotros, hacemos *ingeniería de software*, nuestros *ecosistemas tecnológicos* son nuestra exposición al mundo de lo que hacemos ofreciendo herramientas e integración al alcance de todos
+Puede que Coderic te parezca muchas cosas, pero la verdad es que somos una *casa de software*, y es que nosotros hacemos *ingeniería de software*; nuestros *ecosistemas tecnológicos* son nuestra exposición al mundo de lo que hacemos, ofreciendo herramientas e integración al alcance de todos
 
 
 [NOTE]
 [caption="Nota"]
-La presente documentación servirá para explicar y definir el funcionamiento y uso de la comunidad Coderic Latam, sus beneficios, su estructura organizativa, políticas, reglamentos, alcance y responsabilidad.
+La presente documentación servirá para explicar y definir el funcionamiento y uso de la comunidad Coderic, sus beneficios, su estructura organizativa, políticas, reglamentos, alcance y responsabilidad.
 
 [IMPORTANT]
 [caption="Importante"]
-El contenido del presente documento está en continua redacción, no requiere ser aceptada en su totalidad ya que de momento es un borrador en proceso de edición, las comunidades se construyen con la ayuda y participación de todos los miembros, colaboradores y audiencias; siéntase libre de aportar, expresar desacuerdos, sugerir ediciones, https://github.com/orgs/CodericLatam/discussions[discutir propuestas] o solicitar características y mejoras creando una https://github.com/CodericLatam/docs/issues/new/choose[Nueva Incidencia]
+El contenido del presente documento está en continua redacción, no requiere ser aceptada en su totalidad ya que de momento es un borrador en proceso de edición, las comunidades se construyen con la ayuda y participación de todos los miembros, colaboradores y audiencias; siéntase libre de aportar, expresar desacuerdos, sugerir ediciones, https://github.com/orgs/Coderic/discussions[discutir propuestas] o solicitar características y mejoras creando una https://github.com/Coderic/docs/issues/new/choose[Nueva Incidencia]
