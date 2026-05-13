@@ -147,7 +147,7 @@ Nuestra infraestructura est? dise?ada siguiendo principios de:
 Para preguntas sobre infraestructura:
 
 * *Email*: infrastructure@coderic.org
-* *Documentaci?n técnica*: https://coderic.org/docs/[Documentaci?n]
+* *Documentación técnica*: https://docs.coderic.org/[Documentación]
 * *Issues*: https://github.com/CodericLatam/docs/issues[GitHub Issues]
 
 == Recursos adicionales

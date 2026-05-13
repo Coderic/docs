@@ -1,5 +1,0 @@
-= Política de Protección de Datos
-:navtitle: Protección de Datos
-
-TODO
-Hola mundo

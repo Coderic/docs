@@ -5,15 +5,17 @@
 ** xref:team.adoc[]
 
 * Políticas
-** xref:CODE_OF_CONDUCT.adoc[]
-** xref:SECURITY.adoc[]
-** xref:PRIVACY.adoc[]
-** xref:HABEAS-DATA.adoc[]
-** xref:ANTI-SPAM.adoc[]
+** https://coderic.org/policies.html[Centro de políticas — coderic.org]
+** https://coderic.org/code-of-conduct.html[Código de conducta]
+** https://coderic.org/security-policy.html[Política de seguridad]
+** https://coderic.org/privacy.html[Privacidad]
+** https://coderic.org/HABEAS-DATA.html[Habeas data]
+** https://coderic.org/ANTI-SPAM.html[Anti-spam]
+** https://coderic.org/contributor-agreement.html[Acuerdo de contribución]
 ** xref:CULTURE.adoc[]
 
 * Únete a Coderic
-** xref:join.adoc[]
-** xref:CONTRIBUTING.adoc[]
+** https://coderic.org/join.html[Incorporación a Coderic]
+** https://coderic.org/contributing.html[Guía de contribución]
 ** xref:sponsors.adoc[]
 ** xref:infrastructure.adoc[]
