@@ -121,7 +121,7 @@ Para proponer nuevas características:
 
 * *GitHub Issues*: Para bugs y discusiones técnicas
 * *GitHub Discussions*: Para preguntas y discusiones generales
-* *Email*: latam@coderic.org para temas no tócnicos
+* *Email*: coderic@coderic.org para temas no tócnicos
 
 === Recursos de aprendizaje
 
@@ -163,7 +163,7 @@ No te desanimes. El feedback es para mejorar. Revisa los comentarios, haz ajuste
 
 Si tienes preguntas sobre cómo contribuir:
 
-* *Email*: latam@coderic.org
+* *Email*: coderic@coderic.org
 * *GitHub Discussions*: https://github.com/CodericLatam/docs/discussions
 * *Issues*: https://github.com/CodericLatam/docs/issues
 

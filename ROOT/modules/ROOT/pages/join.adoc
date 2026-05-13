@@ -91,7 +91,7 @@ Puedes expresar tu interés de varias formas:
 
 * Únete a nuestras discusiones en GitHub
 * Participa en nuestro chat comunitario
-* Envía un email a latam@coderic.org
+* Envía un email a coderic@coderic.org
 * Asiste a una reunión de bienvenida
 
 === Paso 3: Primera contribución
@@ -115,7 +115,7 @@ Una vez que hayas realizado contribuciones significativas:
 
 * *Documentación*: https://coderic.org/docs/[https://coderic.org/docs/]
 * *GitHub*: https://github.com/CodericLatam[https://github.com/CodericLatam]
-* *Contacto*: latam@coderic.org
+* *Contacto*: coderic@coderic.org
 * *Guía de contribución*: xref:CONTRIBUTING.adoc[Ver guía de contribución]
 
 ¡Esperamos que te unas a nosotros y juntos construyamos el futuro de la tecnología!
