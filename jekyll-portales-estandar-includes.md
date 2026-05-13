@@ -14,14 +14,17 @@ Referencia para portales del ecosistema Coderic que usan `remote_theme: Coderic/
 
 ## SEO, `<title>` y Polyglot
 
-- Con el `head` del tema, el `<title>` suele seguir la lógica del tema (`page.title | default: site.portal_name`, etc.).
-- Títulos y descripciones **por idioma desde `_data`** requieren **extender el `head` del tema** (p. ej. condicionales con datos de página o `meta` en `ui.yml`) **o** aceptar el nombre del portal como fallback hasta un PR al tema.
-- Añadir bloques `meta` en `ui.yml` por idioma sirve como **preparación**; solo mejoran SEO cuando el tema (o front matter por página) los consumen.
+- El tema incluye **`sitemap.xml`** (Liquid): genera **`/sitemap.xml`** con **una URL por cada idioma** en `site.languages` (compatible con jekyll-polyglot; `jekyll-sitemap` solo repetía la URL del idioma por defecto). Cada portal debe fijar **`url`** (y **`baseurl`** si aplica) en `_config.yml`. Buenas prácticas: [Google Search Central](https://developers.google.com/search/docs?hl=es-419).
+- `robots.txt` del tema (Liquid) incluye **`Sitemap: {url}/sitemap.xml`** en producción; no hace falta un `robots.txt` estático en el portal salvo reglas `Disallow` extra acordadas.
+- Páginas que no deben indexarse: front matter **`sitemap: false`** (en el tema, `callback`, `profile` y `hello-world` lo declaran en su front matter).
+- **`_includes/seo_resolve.html`** (tema) unifica `<title>` / meta description para: `page.net_page`, `page.i18n_source`, `page.i18n`, `page.pages_data_key` / secciones `organization` · `impact` · `governance`, y fallbacks.
+- Objetivo: **cero** `_includes/head.html` en portales; cambios compartibles van al tema.
 
 ## Resumen
 
 | Preferencia | Evitar |
 |-------------|--------|
-| Tema como fuente de head/subnav | Copias locales de head/subnav sin necesidad |
+| Tema como fuente de head/subnav/sitemap/robots | Copias locales de head/subnav sin necesidad; `robots.txt` estático duplicado |
 | PR al tema para cambios compartibles | Divergencia silenciosa entre portales |
 | Migas inlinadas si no hay partial en tema | Includes de migas solo por un portal |
+| `url` correcto en `_config.yml` | Sitemap/canonical/OG con host vacío o incorrecto |
