@@ -1,5 +1,6 @@
 site:
   title: Coderic Documentación
+  url: https://docs.coderic.org
   start_page: ROOT::index.adoc
 content:
   sources: 

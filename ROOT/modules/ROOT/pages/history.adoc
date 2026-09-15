@@ -48,10 +48,14 @@ https://locutoresyemisorasve.blogspot.com/p/emisoras.html[Locutores y Emisoras d
 
 Tras la reactivación en 2015, Coderic ha continuado evolucionando como organización tecnológica. Actualmente, la corporación se ha consolidado como una casa de software con un ecosistema tecnológico completo que incluye múltiples portales y servicios:
 
-* https://coderic.org/[Coderic.org] - Portal principal de la organización
-* https://coderic.co/[Coderic.co] - Portal de servicios empresariales
-* https://coderic.net/[Coderic.net] - Portal de servicios profesionales
-* https://coderic.cloud/[Coderic.cloud] - Portal de servicios en la nube
+* https://coderic.org/[coderic.org] — Organization (institucional)
+* https://coderic.com/[coderic.com] — Business
+* https://coderic.financial/[coderic.financial] — Financial
+* https://coderic.cloud/[coderic.cloud] — Cloud
+* https://coderic.store/[coderic.store] — Store
+* https://coderic.net/[coderic.net] — Network
+* https://coderic.io/[coderic.io] — I/O
+* https://coderic.dev/[coderic.dev] — Development (incubadora)
 
 La organización mantiene su compromiso con el software libre, la innovación tecnológica y el desarrollo de soluciones personalizadas para empresas y emprendedores. Coderic continúa siendo una comunidad de profesionales apasionados por la tecnología, enfocados en proporcionar herramientas e integración tecnológica al alcance de todos.
 

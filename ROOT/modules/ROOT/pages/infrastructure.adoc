@@ -13,29 +13,45 @@ Nuestra infraestructura est? dise?ada siguiendo principios de:
 
 == Servicios y portales
 
-=== Portal principal (coderic.org)
+Ocho portales, una corporación. Documentación canónica: https://docs.coderic.org[docs.coderic.org].
 
-* *Prop?sito*: Portal institucional y punto de entrada principal
-* *Tecnolog?a*: Stack moderno con soporte para documentaci?n y contenido din?mico
-* *Alojamiento*: Infraestructura en la nube con CDN global
+=== coderic.org — Organization
 
-=== Portal empresarial (coderic.co)
+* *Propósito*: Portal institucional de Fundación Coderic
+* *Tecnología*: Jekyll y `jekyll-theme-coderic`
+* *Documentación*: este sitio (docs.coderic.org)
 
-* *Prop?sito*: Servicios empresariales y soluciones B2B
-* *características*: Plataforma para gestión de proyectos empresariales
-* *Infraestructura*: Servicios escalables con alta disponibilidad
+=== coderic.com — Business
 
-=== Portal profesional (coderic.net)
+* *Propósito*: Soluciones de software a organizaciones (B2B)
+* *Infraestructura*: Cloudflare Pages y Worker `/api/`
 
-* *Prop?sito*: Servicios profesionales y desarrollo personalizado
-* *Funcionalidades*: gestión de proyectos y clientes profesionales
-* *Tecnolog?a*: APIs y servicios backend robustos
+=== coderic.financial — Financial
 
-=== Portal en la nube (coderic.cloud)
+* *Propósito*: Software financiero y contable (no pasarela de pagos)
+* *Alias transitorios*: coderic.co, financial.coderic.com
 
-* *Prop?sito*: Servicios de infraestructura en la nube
-* *Oferta*: Hosting, almacenamiento, bases de datos y servicios cloud
-* *Capacidades*: Auto-escalado y gestión automatizada
+=== coderic.cloud — Cloud
+
+* *Propósito*: Marketplace IaaS, PaaS, SaaS
+* *Capacidades*: despliegue, configuración y automatización sobre infraestructura de terceros
+
+=== coderic.store — Store
+
+* *Propósito*: Hardware para la nube y el desarrollo de software
+
+=== coderic.net — Network
+
+* *Propósito*: Redes de datos, MQTT, XMPP, APIs y estándares
+
+=== coderic.io — I/O
+
+* *Propósito*: Entrada y salida de datos (distinto de .net)
+* *Alias transitorio*: io.coderic.net
+
+=== coderic.dev — Development
+
+* *Propósito*: Incubadora operativa (proyectos, crowdfunding, coworking, freelancers, learning, community)
 
 == Tecnolog?as y stack
 

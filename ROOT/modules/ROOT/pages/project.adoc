@@ -67,7 +67,7 @@ Fundamentalmente, Coderic es:
 
 * *Una organización de desarrollo de software*: Desarrollamos soluciones personalizadas, sistemas a medida y productos tecnológicos que impulsan el éxito de nuestros clientes y usuarios.
 
-* *Un ecosistema tecnológico integral*: A través de nuestros portales (coderic.org, coderic.co, coderic.net, coderic.cloud), ofrecemos una gama completa de servicios tecnológicos desde desarrollo hasta infraestructura en la nube.
+* *Un ecosistema tecnológico integral*: A través de nuestros portales (coderic.com, coderic.financial, coderic.cloud, coderic.store, coderic.net, coderic.io, coderic.dev, coderic.org), ofrecemos una gama completa de servicios tecnológicos desde desarrollo hasta infraestructura en la nube.
 
 * *Una comunidad de profesionales*: Somos una comunidad de desarrolladores, ingenieros y profesionales tecnológicos apasionados por la innovación y la excelencia.
 
